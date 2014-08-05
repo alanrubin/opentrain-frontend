@@ -1,0 +1,66 @@
+@import '../bower_components/bootstrap/less/bootstrap.less';
+@import '../bower_components/flat-ui-official/less/flat-ui.less';
+
+@local-font-path: '../fonts/';
+
+@font-size-base: 16px;
+
+.navbar-brand {
+	padding-left: 70px;
+
+	img {
+		position: absolute;
+		top: 8px;
+		left: 15px;
+		width: 35px;
+	}
+}
+
+.schedule {
+	.list-group-item {
+		&.details {
+			overflow: hidden;
+
+			table {
+				margin: 10px;
+			}
+
+			&.collapse, &.collapsing {
+				padding: 0;
+			}
+		}
+
+		.badge {
+			margin-top: 4px;
+		}
+
+		.fui-list {
+			margin-right: 10px;
+		}
+
+		.location {
+			float: none;
+			padding-left: 4px;
+			margin-left: 10px;
+		}
+	}
+}
+
+.summary {
+	.dropdown-menu {
+		font-size: 14px;
+	}
+
+	tbody {
+		td.link {
+			font-size: 24px;
+			padding: 0;
+			text-align: center;
+
+			a {
+				padding: 0 8px;
+				display: block;
+			}
+		}
+	}
+}
