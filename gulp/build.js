@@ -23,6 +23,12 @@ gulp.task('scripts', function () {
     .pipe($.size());
 });
 
+gulp.task('coffee', function () {
+    return gulp.src('app/modules/**/*.coffee')
+        .pipe($.coffee())
+        .pipe(gulp.dest('.tmp/modules'));
+});
+
 gulp.task('partials', function () {
   return gulp.src('app/modules/**/*template.html')
     .pipe($.minifyHtml({
@@ -38,7 +44,7 @@ gulp.task('partials', function () {
     .pipe($.size());
 });
 
-gulp.task('html', ['styles', 'scripts', 'partials'], function () {
+gulp.task('html', ['styles', 'scripts', 'partials', 'coffee'], function () {
   var jsFilter = $.filter('**/*.js');
   var cssFilter = $.filter('**/*.css');
 

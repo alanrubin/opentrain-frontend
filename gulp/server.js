@@ -42,7 +42,7 @@ gulp.task('serve', ['watch'], function () {
   ], [
     'app/*.html',
     '.tmp/styles/**/*.css',
-    'app/modules/**/*.js',
+    '{.tmp,app}/modules/**/*.js',
     'app/modules/**/*template.html',
     'app/images/**/*'
   ]);
