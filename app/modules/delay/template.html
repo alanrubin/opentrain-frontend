@@ -15,13 +15,11 @@
         <div class="panel-heading">
           <form class="form-inline" role="form">
             <div class="form-group">
-              <div class="dropdown">
-                <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Group by Area<span class="caret"></span></button>
+              <div class="dropdown" is-open="open">
+                <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Group by {{selectedGroup}}<span class="caret"></span></button>
                 <span class="dropdown-arrow dropdown-arrow-inverse"></span>
                 <ul class="dropdown-menu dropdown-inverse">
-                  <li><a href="#fakelink">Group by City</a></li>
-                  <li><a href="#fakelink">Group by Station</a></li>
-                  <li><a href="#fakelink">Group by Line</a></li>
+                  <li ng-repeat="groupItem in groupBy | filter:'!'+selectedGroup"><a ng-click="selectGroup(groupItem)" href>Group by {{groupItem}}</a></li>
                 </u>
               </div>
             </div>
