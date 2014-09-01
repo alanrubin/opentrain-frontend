@@ -1,7 +1,7 @@
 'use strict';
 
-angular.module('openTrain')
-  .controller('MainCtrl', function ($scope) {
+angular.module('otDelay')
+  .controller('DelayController', function ($scope) {
 
     $scope.lines = [{
       status: 'success'

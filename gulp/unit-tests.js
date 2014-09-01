@@ -15,7 +15,7 @@ gulp.task('test', function() {
   });
 
   var testFiles = bowerDeps.js.concat([
-    'app/scripts/**/*.js',
+    'app/modules/**/*.js',
     'test/unit/**/*.js'
   ]);
 
