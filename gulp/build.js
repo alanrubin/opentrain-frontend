@@ -11,7 +11,7 @@ gulp.task('styles', function () {
     .pipe($.sourcemaps.init())
     .pipe($.less())
     .pipe($.autoprefixer('last 1 version'))
-    .pipe($.sourcemaps.write('.tmp/maps'))
+    .pipe($.sourcemaps.write('maps'))
     .pipe(gulp.dest('.tmp/styles'))
     .pipe($.size());
 });
@@ -25,7 +25,9 @@ gulp.task('scripts', function () {
 
 gulp.task('coffee', function () {
     return gulp.src('app/modules/**/*.coffee')
+        .pipe($.sourcemaps.init())
         .pipe($.coffee())
+        .pipe($.sourcemaps.write('maps'))
         .pipe(gulp.dest('.tmp/modules'));
 });
 
