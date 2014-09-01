@@ -32,13 +32,13 @@ gulp.task('partials', function () {
     }))
     .pipe($.ngHtml2js({
       moduleName: "openTrain",
-      prefix: "partials/"
+      prefix: "modules/"
     }))
     .pipe(gulp.dest(".tmp/partials"))
     .pipe($.size());
 });
 
-gulp.task('html', ['styles', 'modules', 'partials'], function () {
+gulp.task('html', ['styles', 'scripts', 'partials'], function () {
   var jsFilter = $.filter('**/*.js');
   var cssFilter = $.filter('**/*.css');
 
