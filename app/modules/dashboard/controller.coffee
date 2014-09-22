@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('otDashboard').controller 'DashboardController', ($scope) ->
+angular.module('otDashboard').controller 'DashboardController', ($scope, $stateParams, $state) ->
 
 	$scope.lines = [
 		{ status: 'success' }
@@ -9,16 +9,16 @@ angular.module('otDashboard').controller 'DashboardController', ($scope) ->
 		{ status: 'success' }
 	]
 
-	$scope.groupBy = [
-    	'Area'
-    	'City'
-    	'Station'
-    	'Line'
-    ]
-	
-	$scope.selectedGroup = $scope.groupBy[0]
+	# Set selected group by state params
+	$scope.selectedGroup = $stateParams.groupBy
 
+	$scope.groupBy = [
+    	'area'
+    	'city'
+    	'station'
+    	'line'
+    ]
+
+    # Select specific group
 	$scope.selectGroup = (groupItem) ->
-		$scope.open = false;
-		$scope.selectedGroup = groupItem
-		console.log('Dropdown is now: ', groupItem) ;
+		$state.go 'dashboard', { groupBy: groupItem }

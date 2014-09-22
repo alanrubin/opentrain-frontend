@@ -7,10 +7,10 @@
           <form class="form-inline" role="form">
             <div class="form-group">
               <div class="dropdown" is-open="open">
-                <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Group by {{selectedGroup}}<span class="caret"></span></button>
+                <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Group by <span class="group-name">{{selectedGroup}}</span><span class="caret"></span></button>
                 <span class="dropdown-arrow dropdown-arrow-inverse"></span>
                 <ul class="dropdown-menu dropdown-inverse">
-                  <li ng-repeat="groupItem in groupBy | filter:'!'+selectedGroup"><a ng-click="selectGroup(groupItem)" href>Group by {{groupItem}}</a></li>
+                  <li ng-repeat="groupItem in groupBy | filter:'!'+selectedGroup"><a ng-click="selectGroup(groupItem)" href>Group by <span class="group-name">{{groupItem}}</span></a></li>
                   </u>
                 </div>
               </div>
