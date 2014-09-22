@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('otDelay').controller 'DelayController', ($scope) ->
+angular.module('otDashboard').controller 'DashboardController', ($scope) ->
 
 	$scope.lines = [
 		{ status: 'success' }
