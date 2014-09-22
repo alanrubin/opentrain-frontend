@@ -9,7 +9,10 @@ gulp.task('styles', function () {
   return gulp.src('app/styles/main.less')
     .pipe($.plumber())
     .pipe($.sourcemaps.init())
-    .pipe($.less())
+    .pipe($.less().on('error',function(e){
+      console.log(e);
+      this.emit('end');
+    }))
     .pipe($.autoprefixer('last 1 version'))
     .pipe($.sourcemaps.write('maps'))
     .pipe(gulp.dest('.tmp/styles'))
@@ -26,7 +29,10 @@ gulp.task('scripts', function () {
 gulp.task('coffee', function () {
     return gulp.src('app/modules/**/*.coffee')
         .pipe($.sourcemaps.init())
-        .pipe($.coffee())
+        .pipe($.coffee().on('error',function(e){
+          console.log(e);
+          this.emit('end');
+        }))
         .pipe($.sourcemaps.write('maps'))
         .pipe(gulp.dest('.tmp/modules'));
 });
