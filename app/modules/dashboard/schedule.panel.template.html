@@ -5,10 +5,10 @@
   </div>
   <!-- Table -->
   <div class="list-group">
-    <a ng-repeat-start="line in lines" ng-init="isCollapsed=true" ng-class="{active: !isCollapsed, 'list-group-item-success': line.status == 'success', 'list-group-item-warning': line.status == 'warning', 'list-group-item-danger': line.status == 'danger'}" ng-click="isCollapsed = !isCollapsed" href="#" class="list-group-item">
+    <a ng-repeat-start="line in lines" ng-init="isCollapsed=true" ng-class="{active: !isCollapsed, 'list-group-item-success': line.status == 'success', 'list-group-item-warning': line.status == 'warning', 'list-group-item-danger': line.status == 'danger'}" ng-click="isCollapsed = !isCollapsed" href class="list-group-item">
       <span class="badge">14m delay</span>
       <span class="fui-list"></span>
-      Line Haifa-Beer Sheva
+      Haifa-Beer Sheva
       <span class="badge location"><span class="fui-location"></span> West Hadera</span>
     </a>
     <div ng-repeat-end href="#" class="list-group-item details" collapse="isCollapsed">

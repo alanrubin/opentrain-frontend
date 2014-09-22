@@ -57,11 +57,33 @@
 			float: none;
 			padding-left: 4px;
 			margin-left: 10px;
+
+			@media (max-width: @screen-xs-min) {
+				display: block;
+			}
 		}
 	}
 }
 
 .summary {
+	.form-inline {
+		> .form-group:last-child {
+			margin-bottom: 0px;
+		}
+	
+		.dropdown {
+			button {
+				width: 100%;
+			}
+
+			@media (max-width: @screen-sm-min) {
+				.dropdown-menu {
+					width: 100%;
+				}
+			}
+		}
+	}
+
 	.dropdown-menu {
 		font-size: 14px;
 	}
