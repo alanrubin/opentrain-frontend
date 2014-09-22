@@ -1,13 +1,4 @@
 <div class="container-fluid">
-  <!-- <div class="row">
-    <div class="col-md-12">
-      <div class="jumbotron">
-        <h1>Open Train</h1>
-        <p class="lead">OpenTrain is a project developed by <a href>The Public Knowledge Workshop</a> NGO that aims to encourage the Israel Railways company to release real time information about arrival and departure of trains from stations.</p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">Join us !</a></p>
-      </div>
-    </div>
-  </div> -->
   <div class="row">
     <div class="col-md-4">
       <div class="panel panel-default summary">
@@ -20,142 +11,78 @@
                 <span class="dropdown-arrow dropdown-arrow-inverse"></span>
                 <ul class="dropdown-menu dropdown-inverse">
                   <li ng-repeat="groupItem in groupBy | filter:'!'+selectedGroup"><a ng-click="selectGroup(groupItem)" href>Group by {{groupItem}}</a></li>
-                </u>
+                  </u>
+                </div>
               </div>
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search for" />
-              <span class="input-icon fui-search"></span>
-            </div>
-          </form>
-        </div>
-        <!-- Table -->
-        <table class="table">
-          <thead>
-            <tr>
-              <th><a href>Name <span class="caret"></span></a></th>
-              <th colspan="3"><a href>Status</a></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>North</td>
-              <td><span class="label label-success">On Time</span></td>
-              <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-              <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-            </tr>
-            <tr>
-              <td>Haifa</td>
-              <td><span class="label label-warning">Small Delays</span></td>
-              <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-              <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-            </tr>
-            <tr>
-              <td>Carmel</td>
-              <td><span class="label label-danger">Delays</span></td>
-              <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-              <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-            </tr>
-            <tr>
-              <td>Sharon</td>
-              <td><span class="label label-success">On Time</span></td>
-              <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-              <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-            </tr>
-            <tr>
-              <td>Gush Dan</td>
-              <td><span class="label label-success">On Time</span></td>
-              <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-              <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-            </tr>
-            <tr>
-              <td>Hashfela</td>
-              <td><span class="label label-success">On Time</span></td>
-              <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-              <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-            </tr>
-            <tr>
-              <td>Jerusalem</td>
-              <td><span class="label label-success">On Time</span></td>
-              <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-              <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-            </tr>
-            <tr>
-              <td>South</td>
-              <td><span class="label label-success">On Time</span></td>
-              <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-              <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-    <div class="col-md-8">
-      <div class="panel panel-default schedule">
-        <!-- Default panel contents -->
-        <div class="panel-heading">
-          Schedule Information
-        </div>
-        <!-- Table -->
-        <div class="list-group">
-          <a ng-repeat-start="line in lines" ng-init="isCollapsed=true" ng-class="{active: !isCollapsed, 'list-group-item-success': line.status == 'success', 'list-group-item-warning': line.status == 'warning', 'list-group-item-danger': line.status == 'danger'}" ng-click="isCollapsed = !isCollapsed" href="#" class="list-group-item">
-            <span class="badge">14m delay</span>
-            <span class="fui-list"></span>
-            Line Haifa-Beer Sheva
-            <span class="badge location"><span class="fui-location"></span> West Hadera</span>
-          </a>
-          <div ng-repeat-end href="#" class="list-group-item details" collapse="isCollapsed">
-            <table class="table">
-          <thead>
-            <tr>
-              <th>Station</th>
-              <th>Planned Time</th>
-              <th>Actual Time</th>
-              <th>Delay (min)</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Haifa</td>
-              <td>8:00</td>
-              <td>8:00</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>Biniamina</td>
-              <td>8:20</td>
-              <td>8:22</td>
-              <td>2</td>
-            </tr>
-            <tr>
-              <td>Hadera</td>
-              <td>8:35</td>
-              <td>8:39</td>
-              <td>4</td>
-            </tr>
-            <tr>
-              <td>Netania</td>
-              <td>8:55</td>
-              <td>8:58</td>
-              <td>3</td>
-            </tr>
-            <tr>
-              <td>Herzelia</td>
-              <td>9:15</td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>Lod</td>
-              <td>9:35</td>
-              <td></td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search for" />
+                <span class="input-icon fui-search"></span>
+              </div>
+            </form>
           </div>
+          <!-- Table -->
+          <table class="table">
+            <thead>
+              <tr>
+                <th><a href>Name <span class="caret"></span></a></th>
+                <th colspan="3"><a href>Status</a></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>North</td>
+                <td><span class="label label-success">On Time</span></td>
+                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
+                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
+              </tr>
+              <tr>
+                <td>Haifa</td>
+                <td><span class="label label-warning">Small Delays</span></td>
+                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
+                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
+              </tr>
+              <tr>
+                <td>Carmel</td>
+                <td><span class="label label-danger">Delays</span></td>
+                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
+                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
+              </tr>
+              <tr>
+                <td>Sharon</td>
+                <td><span class="label label-success">On Time</span></td>
+                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
+                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
+              </tr>
+              <tr>
+                <td>Gush Dan</td>
+                <td><span class="label label-success">On Time</span></td>
+                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
+                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
+              </tr>
+              <tr>
+                <td>Hashfela</td>
+                <td><span class="label label-success">On Time</span></td>
+                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
+                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
+              </tr>
+              <tr>
+                <td>Jerusalem</td>
+                <td><span class="label label-success">On Time</span></td>
+                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
+                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
+              </tr>
+              <tr>
+                <td>South</td>
+                <td><span class="label label-success">On Time</span></td>
+                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
+                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
+              </tr>
+            </tbody>
+          </table>
         </div>
+      </div>
+      <div class="col-md-8">
+        <div ui-view></div>
       </div>
     </div>
   </div>
-</div>
