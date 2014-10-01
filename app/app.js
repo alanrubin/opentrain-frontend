@@ -24,4 +24,13 @@ angular.module('openTrain', ['otDashboard', 'otAbout', 'ngAnimate', 'ngTouch', '
 				}
 			})
 			.preferredLanguage('he');
+	})
+	.controller('LanguageController', function($scope, $translate) {
+		$scope.changeLanguage = function(languageCode) {
+			$translate.use(languageCode);
+
+			$scope.currentLanguage = languageCode;
+		};
+
+		$scope.currentLanguage = $translate.use();
 	});
