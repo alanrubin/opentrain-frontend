@@ -7,16 +7,16 @@
           <form class="form-inline" role="form">
             <div class="form-group">
               <div class="dropdown" is-open="open">
-                <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Group by <span class="group-name">{{selectedGroup}}</span><span class="caret"></span></button>
+                <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">{{ 'SUMMARY.GROUP_BY' | translate }}<span class="group-name">{{selectedGroup}}</span> <span class="caret"></span></button>
                 <span class="dropdown-arrow dropdown-arrow-inverse"></span>
                 <ul class="dropdown-menu dropdown-inverse">
-                  <li ng-repeat="groupItem in groupBy | filter:'!'+selectedGroup"><a ng-click="selectGroup(groupItem)" href>Group by <span class="group-name">{{groupItem}}</span></a></li>
+                  <li ng-repeat="groupItem in groupBy | filter:'!'+selectedGroup"><a ng-click="selectGroup(groupItem)" href>{{ 'SUMMARY.GROUP_BY' | translate }}<span class="group-name">{{groupItem}}</span></a></li>
                   </u>
                 </div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Search for" />
-                <span class="input-icon fui-search"></span>
+                <input type="text" class="form-control" ng-attr-placeholder="{{ 'SUMMARY.SEARCH_FOR' | translate }}" />
+                <span class="flip input-icon fui-search"></span>
               </div>
             </form>
           </div>
@@ -24,56 +24,56 @@
           <table class="table">
             <thead>
               <tr>
-                <th><a href>Name <span class="caret"></span></a></th>
-                <th colspan="3"><a href>Status</a></th>
+                <th><a href>{{ 'SUMMARY.NAME' | translate }} <span class="caret"></span></a></th>
+                <th colspan="3"><a href>{{ 'SUMMARY.STATUS' | translate }}</a></th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td>North</td>
-                <td><span class="label label-success">On Time</span></td>
+                <td>צפון</td>
+                <td><span class="label label-success">בזמן</span></td>
+                <td class="link"><a ng-attr-title="{{ 'SUMMARY.LOCATION' | translate }}" href><span class="fui-location"></span></a></td>
+                <td class="link"><a ng-attr-title="{{ 'SUMMARY.INFORMATION' | translate }}" href><span class="fui-eye"></span></a></td>
+              </tr>
+              <tr>
+                <td>חיפה</td>
+                <td><span class="label label-warning">עיכובים</span></td>
                 <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
                 <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
               </tr>
               <tr>
-                <td>Haifa</td>
-                <td><span class="label label-warning">Small Delays</span></td>
+                <td>כרמל</td>
+                <td><span class="label label-danger">עיכובים גדולים</span></td>
                 <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
                 <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
               </tr>
               <tr>
-                <td>Carmel</td>
-                <td><span class="label label-danger">Delays</span></td>
+                <td>שרון</td>
+                <td><span class="label label-success">בזמן</span></td>
                 <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
                 <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
               </tr>
               <tr>
-                <td>Sharon</td>
-                <td><span class="label label-success">On Time</span></td>
+                <td>גוש דן</td>
+                <td><span class="label label-success">בזמן</span></td>
                 <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
                 <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
               </tr>
               <tr>
-                <td>Gush Dan</td>
-                <td><span class="label label-success">On Time</span></td>
+                <td>השפלה</td>
+                <td><span class="label label-success">בזמן</span></td>
                 <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
                 <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
               </tr>
               <tr>
-                <td>Hashfela</td>
-                <td><span class="label label-success">On Time</span></td>
+                <td>ירושלים</td>
+                <td><span class="label label-success">בזמן</span></td>
                 <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
                 <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
               </tr>
               <tr>
-                <td>Jerusalem</td>
-                <td><span class="label label-success">On Time</span></td>
-                <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
-                <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
-              </tr>
-              <tr>
-                <td>South</td>
-                <td><span class="label label-success">On Time</span></td>
+                <td>דרום</td>
+                <td><span class="label label-success">בזמן</span></td>
                 <td class="link"><a title="Location" href><span class="fui-location"></span></a></td>
                 <td class="link"><a title="Information" href><span class="fui-eye"></span></a></td>
               </tr>

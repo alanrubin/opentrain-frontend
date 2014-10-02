@@ -13,10 +13,10 @@ angular.module('otDashboard').controller 'DashboardController', ($scope, $stateP
 	$scope.selectedGroup = $stateParams.groupBy
 
 	$scope.groupBy = [
-    	'area'
-    	'city'
-    	'station'
-    	'line'
+    	'אזור'
+    	'עיר'
+    	'תחנה'
+    	'קו'
     ]
 
     # Select specific group

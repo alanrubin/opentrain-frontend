@@ -1,59 +1,59 @@
 <div class="panel panel-default schedule">
   <!-- Default panel contents -->
   <div class="panel-heading">
-    Schedule Information
+    {{ 'SCHEDULE.TITLE' | translate }}
   </div>
   <!-- Table -->
   <div class="list-group">
     <a ng-repeat-start="line in lines" ng-init="isCollapsed=true" ng-class="{active: !isCollapsed, 'list-group-item-success': line.status == 'success', 'list-group-item-warning': line.status == 'warning', 'list-group-item-danger': line.status == 'danger'}" ng-click="isCollapsed = !isCollapsed" href class="list-group-item">
-      <span class="badge">14m delay</span>
+      <span class="badge">14{{ 'SCHEDULE.DELAY' | translate }}</span>
       <span class="fui-list"></span>
-      Haifa-Beer Sheva
-      <span class="badge location"><span class="fui-location"></span> West Hadera</span>
+      חיפה - באר שבע
+      <span class="badge location"><span class="fui-location"></span> חדרה מזרח</span>
     </a>
     <div ng-repeat-end href="#" class="list-group-item details" collapse="isCollapsed">
       <table class="table">
         <thead>
           <tr>
-            <th>Station</th>
-            <th>Planned Time</th>
-            <th>Actual Time</th>
-            <th>Delay (min)</th>
+            <th>{{ 'SCHEDULE.STATION' | translate }}</th>
+            <th>{{ 'SCHEDULE.PLANNED_TIME' | translate }}</th>
+            <th>{{ 'SCHEDULE.ACTUAL_TIME' | translate }}</th>
+            <th>{{ 'SCHEDULE.DELAY_TIME' | translate }}</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Haifa</td>
+            <td>חיפה</td>
             <td>8:00</td>
             <td>8:00</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Biniamina</td>
+            <td>בנימינה</td>
             <td>8:20</td>
             <td>8:22</td>
             <td>2</td>
           </tr>
           <tr>
-            <td>Hadera</td>
+            <td>חדרה</td>
             <td>8:35</td>
             <td>8:39</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Netania</td>
+            <td>נתניה</td>
             <td>8:55</td>
             <td>8:58</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Herzelia</td>
+            <td>הרצליה</td>
             <td>9:15</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>Lod</td>
+            <td>לוד</td>
             <td>9:35</td>
             <td></td>
             <td></td>
