@@ -3,7 +3,7 @@
 angular.module('openTrain', ['otDashboard', 'otAbout', 'ngAnimate', 'ngTouch', 'ngSanitize', 'ui.router', 'ui.bootstrap', 'pascalprecht.translate'])
 	.config(function($urlRouterProvider, $translateProvider) {
 		// Default is /
-		$urlRouterProvider.otherwise('/dashboard/area');
+		$urlRouterProvider.otherwise('/dashboard/%D7%AA%D7%97%D7%A0%D7%94');
 
 		// Translation configuration
 		$translateProvider
