@@ -9,6 +9,6 @@ angular.module('otDashboard', ['ui.router']).config(function($stateProvider) {
 		})
 		.state('dashboard.schedule', {
 			url: '/schedule',
-			templateUrl: 'modules/dashboard/schedule.panel.template.html'
+			templateUrl: 'modules/dashboard/schedule.template.html'
 		});
 });
