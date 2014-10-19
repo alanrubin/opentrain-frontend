@@ -1,22 +1,24 @@
+/* global it, describe, beforeEach, inject, expect */
 'use strict';
 
-describe('controllers', function(){
-  var scope;
+describe('controllers', function() {
+	var scope;
 
-  beforeEach(module('openTrain'));
+	beforeEach(module('openTrain'));
+	beforeEach(module('otDashboard'));
 
-  beforeEach(inject(function($rootScope) {
-  	scope = $rootScope.$new();
-  }));
+	beforeEach(inject(function($rootScope) {
+		scope = $rootScope.$new();
+	}));
 
-  it('should define more than 5 awesome things', inject(function($controller) {
-    expect(scope.awesomeThings).toBeUndefined();
+	it('should define 4 lines', inject(function($controller) {
+		expect(scope.lines).toBeUndefined();
 
-    $controller('MainCtrl', {
-      $scope: scope
-  	});
+		$controller('DashboardController', {
+			$scope: scope
+		});
 
-    expect(angular.isArray(scope.awesomeThings)).toBeTruthy();
-    expect(scope.awesomeThings.length > 5).toBeTruthy();
-  }));
+		expect(angular.isArray(scope.lines)).toBeTruthy();
+		expect(scope.lines.length).toEqual(4);
+	}));
 });
