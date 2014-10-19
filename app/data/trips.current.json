@@ -1,0 +1,4355 @@
+{
+	"meta": {
+		"count": 32,
+		"total_count": 32
+	},
+	"objects": [{
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e9\u05d3\u05e8\u05d5\u05ea",
+				"gtfs_stop_id": 9600,
+				"latlon": [31.515933, 34.587523],
+				"stop_name": "Sderot"
+			},
+			"exp_departure": "2014-10-19T08:23:00+00:00",
+			"exp_arrival": "2014-10-19T08:23:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 5900,
+				"latlon": [31.676738, 34.604851],
+				"stop_name": "Ashkelon"
+			},
+			"exp_departure": "2014-10-19T08:34:00+00:00",
+			"exp_arrival": "2014-10-19T08:34:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05d3\u05d5\u05d3",
+				"gtfs_stop_id": 5800,
+				"latlon": [31.774014, 34.666071],
+				"stop_name": "Ashdod Ad Halom"
+			},
+			"exp_departure": "2014-10-19T08:44:00+00:00",
+			"exp_arrival": "2014-10-19T08:44:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d1\u05e0\u05d4 \u05de\u05e2\u05e8\u05d1",
+				"gtfs_stop_id": 9000,
+				"latlon": [31.891235, 34.73154],
+				"stop_name": "Yavne - West"
+			},
+			"exp_departure": "2014-10-19T08:59:00+00:00",
+			"exp_arrival": "2014-10-19T08:59:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05e9\u05d4 \u05d3\u05d9\u05d9\u05df",
+				"gtfs_stop_id": 9800,
+				"latlon": [31.987929, 34.75745],
+				"stop_name": "Rishon LeTsiyyon - Moshe Dayan"
+			},
+			"exp_departure": "2014-10-19T09:07:00+00:00",
+			"exp_arrival": "2014-10-19T09:07:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea",
+				"gtfs_stop_id": 4690,
+				"latlon": [32.000934, 34.759487],
+				"stop_name": "Bat Yam - Komemiyyut"
+			},
+			"exp_departure": "2014-10-19T09:10:00+00:00",
+			"exp_arrival": "2014-10-19T09:10:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d5\u05e1\u05e4\u05d8\u05dc",
+				"gtfs_stop_id": 4680,
+				"latlon": [32.014591, 34.762116],
+				"stop_name": "Bat Yam - Yoseftal"
+			},
+			"exp_departure": "2014-10-19T09:13:00+00:00",
+			"exp_arrival": "2014-10-19T09:13:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d5\u05d5\u05dc\u05e4\u05e1\u05d5\u05df",
+				"gtfs_stop_id": 4660,
+				"latlon": [32.035412, 34.759706],
+				"stop_name": "Holon - Wolfson"
+			},
+			"exp_departure": "2014-10-19T09:17:00+00:00",
+			"exp_arrival": "2014-10-19T09:17:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e6\u05d5\u05de\u05ea \u05d7\u05d5\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 4640,
+				"latlon": [32.037112, 34.776478],
+				"stop_name": "Holon Junction"
+			},
+			"exp_departure": "2014-10-19T09:20:00+00:00",
+			"exp_arrival": "2014-10-19T09:20:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T09:24:00+00:00",
+			"exp_arrival": "2014-10-19T09:24:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T09:28:00+00:00",
+			"exp_arrival": "2014-10-19T09:28:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T09:34:00+00:00",
+			"exp_arrival": "2014-10-19T09:32:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T09:37:00+00:00",
+			"exp_arrival": "2014-10-19T09:37:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7",
+				"gtfs_stop_id": 4100,
+				"latlon": [32.103098, 34.830143],
+				"stop_name": "Bne Brak"
+			},
+			"exp_departure": "2014-10-19T09:42:00+00:00",
+			"exp_arrival": "2014-10-19T09:42:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 4170,
+				"latlon": [32.1062, 34.863172],
+				"stop_name": "Petah Tikva   Kiryat Arye"
+			},
+			"exp_departure": "2014-10-19T09:47:00+00:00",
+			"exp_arrival": "2014-10-19T09:47:00+00:00",
+			"stop_sequence": 15
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e1\u05d2\u05d5\u05dc\u05d4",
+				"gtfs_stop_id": 4250,
+				"latlon": [32.112064, 34.901297],
+				"stop_name": "Petah Tikva Sgulla"
+			},
+			"exp_departure": "2014-10-19T09:52:00+00:00",
+			"exp_arrival": "2014-10-19T09:52:00+00:00",
+			"stop_sequence": 16
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 8800,
+				"latlon": [32.120813, 34.934787],
+				"stop_name": "Rosh Ha'Ayin North"
+			},
+			"exp_departure": "2014-10-19T09:57:00+00:00",
+			"exp_arrival": "2014-10-19T09:57:00+00:00",
+			"stop_sequence": 17
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0",
+				"gtfs_stop_id": 8700,
+				"latlon": [32.167476, 34.917376],
+				"stop_name": "Kfar Sava"
+			},
+			"exp_departure": "2014-10-19T10:03:00+00:00",
+			"exp_arrival": "2014-10-19T10:03:00+00:00",
+			"stop_sequence": 18
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+				"gtfs_stop_id": 9200,
+				"latlon": [32.17027, 34.901554],
+				"stop_name": "Hod HaSharon"
+			},
+			"exp_departure": "2014-10-19T10:07:00+00:00",
+			"exp_arrival": "2014-10-19T10:07:00+00:00",
+			"stop_sequence": 19
+		}],
+		"gtfs_trip_id": "191014_00638"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05de\u05dc\u05d7\u05d4",
+				"gtfs_stop_id": 6700,
+				"latlon": [31.747813, 35.188161],
+				"stop_name": "Jerusalem Malha"
+			},
+			"exp_departure": "2014-10-19T08:17:00+00:00",
+			"exp_arrival": "2014-10-19T08:17:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9",
+				"gtfs_stop_id": 6300,
+				"latlon": [31.757807, 34.989518],
+				"stop_name": "Bet Shemesh"
+			},
+			"exp_departure": "2014-10-19T08:59:00+00:00",
+			"exp_arrival": "2014-10-19T08:59:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05de\u05dc\u05d4",
+				"gtfs_stop_id": 5010,
+				"latlon": [31.928837, 34.877257],
+				"stop_name": "Ramla"
+			},
+			"exp_departure": "2014-10-19T09:19:00+00:00",
+			"exp_arrival": "2014-10-19T09:19:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T09:23:00+00:00",
+			"exp_arrival": "2014-10-19T09:23:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T09:36:00+00:00",
+			"exp_arrival": "2014-10-19T09:36:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T09:40:00+00:00",
+			"exp_arrival": "2014-10-19T09:40:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T09:47:00+00:00",
+			"exp_arrival": "2014-10-19T09:44:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T09:50:00+00:00",
+			"exp_arrival": "2014-10-19T09:50:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T09:58:00+00:00",
+			"exp_arrival": "2014-10-19T09:58:00+00:00",
+			"stop_sequence": 9
+		}],
+		"gtfs_trip_id": "191014_00514"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9",
+				"gtfs_stop_id": 6300,
+				"latlon": [31.757807, 34.989518],
+				"stop_name": "Bet Shemesh"
+			},
+			"exp_departure": "2014-10-19T08:00:00+00:00",
+			"exp_arrival": "2014-10-19T08:00:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05de\u05dc\u05d4",
+				"gtfs_stop_id": 5010,
+				"latlon": [31.928837, 34.877257],
+				"stop_name": "Ramla"
+			},
+			"exp_departure": "2014-10-19T08:19:00+00:00",
+			"exp_arrival": "2014-10-19T08:19:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:23:00+00:00",
+			"exp_arrival": "2014-10-19T08:23:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:36:00+00:00",
+			"exp_arrival": "2014-10-19T08:36:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:40:00+00:00",
+			"exp_arrival": "2014-10-19T08:40:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:47:00+00:00",
+			"exp_arrival": "2014-10-19T08:44:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:50:00+00:00",
+			"exp_arrival": "2014-10-19T08:50:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T08:58:00+00:00",
+			"exp_arrival": "2014-10-19T08:58:00+00:00",
+			"stop_sequence": 8
+		}],
+		"gtfs_trip_id": "191014_00512"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e0\u05d4\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 1600,
+				"latlon": [33.005016, 35.098722],
+				"stop_name": "Nahariyya"
+			},
+			"exp_departure": "2014-10-19T06:29:00+00:00",
+			"exp_arrival": "2014-10-19T06:29:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T06:36:00+00:00",
+			"exp_arrival": "2014-10-19T06:36:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T06:46:00+00:00",
+			"exp_arrival": "2014-10-19T06:46:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd",
+				"gtfs_stop_id": 700,
+				"latlon": [32.824873, 35.064296],
+				"stop_name": "Kiryat Hayyim"
+			},
+			"exp_departure": "2014-10-19T06:50:00+00:00",
+			"exp_arrival": "2014-10-19T06:50:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T06:56:00+00:00",
+			"exp_arrival": "2014-10-19T06:56:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T07:04:00+00:00",
+			"exp_arrival": "2014-10-19T07:04:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T07:09:00+00:00",
+			"exp_arrival": "2014-10-19T07:09:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T07:16:00+00:00",
+			"exp_arrival": "2014-10-19T07:16:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:00:00+00:00",
+			"exp_arrival": "2014-10-19T08:00:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:07:00+00:00",
+			"exp_arrival": "2014-10-19T08:04:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:09:00+00:00",
+			"exp_arrival": "2014-10-19T08:09:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:14:00+00:00",
+			"exp_arrival": "2014-10-19T08:14:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:27:00+00:00",
+			"exp_arrival": "2014-10-19T08:27:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05de\u05dc\u05d4",
+				"gtfs_stop_id": 5010,
+				"latlon": [31.928837, 34.877257],
+				"stop_name": "Ramla"
+			},
+			"exp_departure": "2014-10-19T08:32:00+00:00",
+			"exp_arrival": "2014-10-19T08:32:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea",
+				"gtfs_stop_id": 7000,
+				"latlon": [31.603481, 34.777918],
+				"stop_name": "Kiryat Gat"
+			},
+			"exp_departure": "2014-10-19T08:54:00+00:00",
+			"exp_arrival": "2014-10-19T08:54:00+00:00",
+			"stop_sequence": 15
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d4\u05d1\u05d9\u05dd",
+				"gtfs_stop_id": 8550,
+				"latlon": [31.369865, 34.798277],
+				"stop_name": "Lehavim - Rahat"
+			},
+			"exp_departure": "2014-10-19T09:11:00+00:00",
+			"exp_arrival": "2014-10-19T09:11:00+00:00",
+			"stop_sequence": 16
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 7300,
+				"latlon": [31.262021, 34.809283],
+				"stop_name": "Be'er Sheva North University"
+			},
+			"exp_departure": "2014-10-19T09:21:00+00:00",
+			"exp_arrival": "2014-10-19T09:21:00+00:00",
+			"stop_sequence": 17
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\"\u05e9 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 7320,
+				"latlon": [31.243285, 34.798395],
+				"stop_name": "Be'er Sheva Center"
+			},
+			"exp_departure": "2014-10-19T09:29:00+00:00",
+			"exp_arrival": "2014-10-19T09:29:00+00:00",
+			"stop_sequence": 18
+		}],
+		"gtfs_trip_id": "191014_00029"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e0\u05d4\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 1600,
+				"latlon": [33.005016, 35.098722],
+				"stop_name": "Nahariyya"
+			},
+			"exp_departure": "2014-10-19T05:29:00+00:00",
+			"exp_arrival": "2014-10-19T05:29:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T05:36:00+00:00",
+			"exp_arrival": "2014-10-19T05:36:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T05:46:00+00:00",
+			"exp_arrival": "2014-10-19T05:46:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd",
+				"gtfs_stop_id": 700,
+				"latlon": [32.824873, 35.064296],
+				"stop_name": "Kiryat Hayyim"
+			},
+			"exp_departure": "2014-10-19T05:50:00+00:00",
+			"exp_arrival": "2014-10-19T05:50:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T05:56:00+00:00",
+			"exp_arrival": "2014-10-19T05:56:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T06:04:00+00:00",
+			"exp_arrival": "2014-10-19T06:04:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T06:09:00+00:00",
+			"exp_arrival": "2014-10-19T06:09:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T06:16:00+00:00",
+			"exp_arrival": "2014-10-19T06:16:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T07:00:00+00:00",
+			"exp_arrival": "2014-10-19T07:00:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T07:07:00+00:00",
+			"exp_arrival": "2014-10-19T07:04:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T07:09:00+00:00",
+			"exp_arrival": "2014-10-19T07:09:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T07:14:00+00:00",
+			"exp_arrival": "2014-10-19T07:14:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T07:27:00+00:00",
+			"exp_arrival": "2014-10-19T07:27:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05de\u05dc\u05d4",
+				"gtfs_stop_id": 5010,
+				"latlon": [31.928837, 34.877257],
+				"stop_name": "Ramla"
+			},
+			"exp_departure": "2014-10-19T07:32:00+00:00",
+			"exp_arrival": "2014-10-19T07:32:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea",
+				"gtfs_stop_id": 7000,
+				"latlon": [31.603481, 34.777918],
+				"stop_name": "Kiryat Gat"
+			},
+			"exp_departure": "2014-10-19T07:54:00+00:00",
+			"exp_arrival": "2014-10-19T07:54:00+00:00",
+			"stop_sequence": 15
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d4\u05d1\u05d9\u05dd",
+				"gtfs_stop_id": 8550,
+				"latlon": [31.369865, 34.798277],
+				"stop_name": "Lehavim - Rahat"
+			},
+			"exp_departure": "2014-10-19T08:11:00+00:00",
+			"exp_arrival": "2014-10-19T08:11:00+00:00",
+			"stop_sequence": 16
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 7300,
+				"latlon": [31.262021, 34.809283],
+				"stop_name": "Be'er Sheva North University"
+			},
+			"exp_departure": "2014-10-19T08:21:00+00:00",
+			"exp_arrival": "2014-10-19T08:21:00+00:00",
+			"stop_sequence": 17
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\"\u05e9 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 7320,
+				"latlon": [31.243285, 34.798395],
+				"stop_name": "Be'er Sheva Center"
+			},
+			"exp_departure": "2014-10-19T08:29:00+00:00",
+			"exp_arrival": "2014-10-19T08:29:00+00:00",
+			"stop_sequence": 18
+		}],
+		"gtfs_trip_id": "191014_00027"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T07:07:00+00:00",
+			"exp_arrival": "2014-10-19T07:07:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 2820,
+				"latlon": [32.485366, 34.95406],
+				"stop_name": "Kesariyya - Pardes Hanna"
+			},
+			"exp_departure": "2014-10-19T07:11:00+00:00",
+			"exp_arrival": "2014-10-19T07:11:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d3\u05e8\u05d4 \u05de\u05e2\u05e8\u05d1",
+				"gtfs_stop_id": 3100,
+				"latlon": [32.438221, 34.899365],
+				"stop_name": "Hadera West"
+			},
+			"exp_departure": "2014-10-19T07:18:00+00:00",
+			"exp_arrival": "2014-10-19T07:18:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05e0\u05d9\u05d4",
+				"gtfs_stop_id": 3300,
+				"latlon": [32.320032, 34.869243],
+				"stop_name": "Natanya"
+			},
+			"exp_departure": "2014-10-19T07:27:00+00:00",
+			"exp_arrival": "2014-10-19T07:27:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05d9\u05d4\u05d5\u05e9\u05e2",
+				"gtfs_stop_id": 3400,
+				"latlon": [32.262489, 34.860115],
+				"stop_name": "Bet Yehoshua"
+			},
+			"exp_departure": "2014-10-19T07:33:00+00:00",
+			"exp_arrival": "2014-10-19T07:33:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T07:42:00+00:00",
+			"exp_arrival": "2014-10-19T07:42:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T07:49:00+00:00",
+			"exp_arrival": "2014-10-19T07:49:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T07:56:00+00:00",
+			"exp_arrival": "2014-10-19T07:53:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T07:58:00+00:00",
+			"exp_arrival": "2014-10-19T07:58:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:03:00+00:00",
+			"exp_arrival": "2014-10-19T08:03:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05d7\u05d1\u05d3",
+				"gtfs_stop_id": 4800,
+				"latlon": [31.993192, 34.853015],
+				"stop_name": "Kfar Habbad"
+			},
+			"exp_departure": "2014-10-19T08:11:00+00:00",
+			"exp_arrival": "2014-10-19T08:11:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:18:00+00:00",
+			"exp_arrival": "2014-10-19T08:18:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d0\u05e8 \u05d9\u05e2\u05e7\u05d1",
+				"gtfs_stop_id": 5300,
+				"latlon": [31.932913, 34.828616],
+				"stop_name": "Be'er Ya'akov"
+			},
+			"exp_departure": "2014-10-19T08:25:00+00:00",
+			"exp_arrival": "2014-10-19T08:25:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea",
+				"gtfs_stop_id": 5200,
+				"latlon": [31.908648, 34.806404],
+				"stop_name": "Rehovot E. Hadar"
+			},
+			"exp_departure": "2014-10-19T08:30:00+00:00",
+			"exp_arrival": "2014-10-19T08:30:00+00:00",
+			"stop_sequence": 14
+		}],
+		"gtfs_trip_id": "191014_00239"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T08:17:00+00:00",
+			"exp_arrival": "2014-10-19T08:17:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T08:23:00+00:00",
+			"exp_arrival": "2014-10-19T08:23:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T08:35:00+00:00",
+			"exp_arrival": "2014-10-19T08:35:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:47:00+00:00",
+			"exp_arrival": "2014-10-19T08:47:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:51:00+00:00",
+			"exp_arrival": "2014-10-19T08:51:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:59:00+00:00",
+			"exp_arrival": "2014-10-19T08:56:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T09:02:00+00:00",
+			"exp_arrival": "2014-10-19T09:02:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T09:30:00+00:00",
+			"exp_arrival": "2014-10-19T09:30:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T09:49:00+00:00",
+			"exp_arrival": "2014-10-19T09:49:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T09:56:00+00:00",
+			"exp_arrival": "2014-10-19T09:56:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T10:00:00+00:00",
+			"exp_arrival": "2014-10-19T10:00:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T10:08:00+00:00",
+			"exp_arrival": "2014-10-19T10:08:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T10:15:00+00:00",
+			"exp_arrival": "2014-10-19T10:15:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T10:24:00+00:00",
+			"exp_arrival": "2014-10-19T10:24:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05d4\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 1600,
+				"latlon": [33.005016, 35.098722],
+				"stop_name": "Nahariyya"
+			},
+			"exp_departure": "2014-10-19T10:33:00+00:00",
+			"exp_arrival": "2014-10-19T10:33:00+00:00",
+			"stop_sequence": 15
+		}],
+		"gtfs_trip_id": "191014_00112"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e0\u05d4\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 1600,
+				"latlon": [33.005016, 35.098722],
+				"stop_name": "Nahariyya"
+			},
+			"exp_departure": "2014-10-19T06:54:00+00:00",
+			"exp_arrival": "2014-10-19T06:54:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T07:01:00+00:00",
+			"exp_arrival": "2014-10-19T07:01:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T07:11:00+00:00",
+			"exp_arrival": "2014-10-19T07:11:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T07:17:00+00:00",
+			"exp_arrival": "2014-10-19T07:17:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T07:25:00+00:00",
+			"exp_arrival": "2014-10-19T07:25:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T07:30:00+00:00",
+			"exp_arrival": "2014-10-19T07:30:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T07:36:00+00:00",
+			"exp_arrival": "2014-10-19T07:36:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T07:56:00+00:00",
+			"exp_arrival": "2014-10-19T07:56:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:24:00+00:00",
+			"exp_arrival": "2014-10-19T08:24:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:31:00+00:00",
+			"exp_arrival": "2014-10-19T08:28:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:34:00+00:00",
+			"exp_arrival": "2014-10-19T08:34:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:39:00+00:00",
+			"exp_arrival": "2014-10-19T08:39:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T08:49:00+00:00",
+			"exp_arrival": "2014-10-19T08:49:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T09:05:00+00:00",
+			"exp_arrival": "2014-10-19T09:05:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T09:13:00+00:00",
+			"exp_arrival": "2014-10-19T09:13:00+00:00",
+			"stop_sequence": 15
+		}],
+		"gtfs_trip_id": "191014_00111"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05e0\u05d9\u05d4",
+				"gtfs_stop_id": 3300,
+				"latlon": [32.320032, 34.869243],
+				"stop_name": "Natanya"
+			},
+			"exp_departure": "2014-10-19T07:51:00+00:00",
+			"exp_arrival": "2014-10-19T07:51:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05d9\u05d4\u05d5\u05e9\u05e2",
+				"gtfs_stop_id": 3400,
+				"latlon": [32.262489, 34.860115],
+				"stop_name": "Bet Yehoshua"
+			},
+			"exp_departure": "2014-10-19T07:56:00+00:00",
+			"exp_arrival": "2014-10-19T07:56:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T08:05:00+00:00",
+			"exp_arrival": "2014-10-19T08:05:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:12:00+00:00",
+			"exp_arrival": "2014-10-19T08:12:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:19:00+00:00",
+			"exp_arrival": "2014-10-19T08:16:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:21:00+00:00",
+			"exp_arrival": "2014-10-19T08:21:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:26:00+00:00",
+			"exp_arrival": "2014-10-19T08:26:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:39:00+00:00",
+			"exp_arrival": "2014-10-19T08:39:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea",
+				"gtfs_stop_id": 5200,
+				"latlon": [31.908648, 34.806404],
+				"stop_name": "Rehovot E. Hadar"
+			},
+			"exp_departure": "2014-10-19T08:49:00+00:00",
+			"exp_arrival": "2014-10-19T08:49:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d1\u05e0\u05d4",
+				"gtfs_stop_id": 5410,
+				"latlon": [31.861859, 34.744094],
+				"stop_name": "Yavne"
+			},
+			"exp_departure": "2014-10-19T08:56:00+00:00",
+			"exp_arrival": "2014-10-19T08:56:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05d3\u05d5\u05d3",
+				"gtfs_stop_id": 5800,
+				"latlon": [31.774014, 34.666071],
+				"stop_name": "Ashdod Ad Halom"
+			},
+			"exp_departure": "2014-10-19T09:07:00+00:00",
+			"exp_arrival": "2014-10-19T09:07:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 5900,
+				"latlon": [31.676738, 34.604851],
+				"stop_name": "Ashkelon"
+			},
+			"exp_departure": "2014-10-19T09:17:00+00:00",
+			"exp_arrival": "2014-10-19T09:17:00+00:00",
+			"stop_sequence": 12
+		}],
+		"gtfs_trip_id": "191014_00961"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T06:36:00+00:00",
+			"exp_arrival": "2014-10-19T06:36:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T06:39:00+00:00",
+			"exp_arrival": "2014-10-19T06:39:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T06:46:00+00:00",
+			"exp_arrival": "2014-10-19T06:46:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T07:30:00+00:00",
+			"exp_arrival": "2014-10-19T07:30:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T07:37:00+00:00",
+			"exp_arrival": "2014-10-19T07:34:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T07:39:00+00:00",
+			"exp_arrival": "2014-10-19T07:39:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T07:44:00+00:00",
+			"exp_arrival": "2014-10-19T07:44:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea",
+				"gtfs_stop_id": 7000,
+				"latlon": [31.603481, 34.777918],
+				"stop_name": "Kiryat Gat"
+			},
+			"exp_departure": "2014-10-19T08:18:00+00:00",
+			"exp_arrival": "2014-10-19T08:18:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 7300,
+				"latlon": [31.262021, 34.809283],
+				"stop_name": "Be'er Sheva North University"
+			},
+			"exp_departure": "2014-10-19T08:41:00+00:00",
+			"exp_arrival": "2014-10-19T08:41:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\"\u05e9 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 7320,
+				"latlon": [31.243285, 34.798395],
+				"stop_name": "Be'er Sheva Center"
+			},
+			"exp_departure": "2014-10-19T08:50:00+00:00",
+			"exp_arrival": "2014-10-19T08:50:00+00:00",
+			"stop_sequence": 10
+		}],
+		"gtfs_trip_id": "191014_00707"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+				"gtfs_stop_id": 9200,
+				"latlon": [32.17027, 34.901554],
+				"stop_name": "Hod HaSharon"
+			},
+			"exp_departure": "2014-10-19T07:40:00+00:00",
+			"exp_arrival": "2014-10-19T07:40:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0",
+				"gtfs_stop_id": 8700,
+				"latlon": [32.167476, 34.917376],
+				"stop_name": "Kfar Sava"
+			},
+			"exp_departure": "2014-10-19T07:43:00+00:00",
+			"exp_arrival": "2014-10-19T07:43:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 8800,
+				"latlon": [32.120813, 34.934787],
+				"stop_name": "Rosh Ha'Ayin North"
+			},
+			"exp_departure": "2014-10-19T07:49:00+00:00",
+			"exp_arrival": "2014-10-19T07:49:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e1\u05d2\u05d5\u05dc\u05d4",
+				"gtfs_stop_id": 4250,
+				"latlon": [32.112064, 34.901297],
+				"stop_name": "Petah Tikva Sgulla"
+			},
+			"exp_departure": "2014-10-19T07:54:00+00:00",
+			"exp_arrival": "2014-10-19T07:54:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 4170,
+				"latlon": [32.1062, 34.863172],
+				"stop_name": "Petah Tikva   Kiryat Arye"
+			},
+			"exp_departure": "2014-10-19T07:59:00+00:00",
+			"exp_arrival": "2014-10-19T07:59:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7",
+				"gtfs_stop_id": 4100,
+				"latlon": [32.103098, 34.830143],
+				"stop_name": "Bne Brak"
+			},
+			"exp_departure": "2014-10-19T08:04:00+00:00",
+			"exp_arrival": "2014-10-19T08:04:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:09:00+00:00",
+			"exp_arrival": "2014-10-19T08:09:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:15:00+00:00",
+			"exp_arrival": "2014-10-19T08:13:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:17:00+00:00",
+			"exp_arrival": "2014-10-19T08:17:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:22:00+00:00",
+			"exp_arrival": "2014-10-19T08:22:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e6\u05d5\u05de\u05ea \u05d7\u05d5\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 4640,
+				"latlon": [32.037112, 34.776478],
+				"stop_name": "Holon Junction"
+			},
+			"exp_departure": "2014-10-19T08:26:00+00:00",
+			"exp_arrival": "2014-10-19T08:26:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d5\u05d5\u05dc\u05e4\u05e1\u05d5\u05df",
+				"gtfs_stop_id": 4660,
+				"latlon": [32.035412, 34.759706],
+				"stop_name": "Holon - Wolfson"
+			},
+			"exp_departure": "2014-10-19T08:29:00+00:00",
+			"exp_arrival": "2014-10-19T08:29:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d5\u05e1\u05e4\u05d8\u05dc",
+				"gtfs_stop_id": 4680,
+				"latlon": [32.014591, 34.762116],
+				"stop_name": "Bat Yam - Yoseftal"
+			},
+			"exp_departure": "2014-10-19T08:33:00+00:00",
+			"exp_arrival": "2014-10-19T08:33:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea",
+				"gtfs_stop_id": 4690,
+				"latlon": [32.000934, 34.759487],
+				"stop_name": "Bat Yam - Komemiyyut"
+			},
+			"exp_departure": "2014-10-19T08:36:00+00:00",
+			"exp_arrival": "2014-10-19T08:36:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05e9\u05d4 \u05d3\u05d9\u05d9\u05df",
+				"gtfs_stop_id": 9800,
+				"latlon": [31.987929, 34.75745],
+				"stop_name": "Rishon LeTsiyyon - Moshe Dayan"
+			},
+			"exp_departure": "2014-10-19T08:39:00+00:00",
+			"exp_arrival": "2014-10-19T08:39:00+00:00",
+			"stop_sequence": 15
+		}],
+		"gtfs_trip_id": "191014_00631"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05de\u05e9\u05d4 \u05d3\u05d9\u05d9\u05df",
+				"gtfs_stop_id": 9800,
+				"latlon": [31.987929, 34.75745],
+				"stop_name": "Rishon LeTsiyyon - Moshe Dayan"
+			},
+			"exp_departure": "2014-10-19T07:48:00+00:00",
+			"exp_arrival": "2014-10-19T07:48:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea",
+				"gtfs_stop_id": 4690,
+				"latlon": [32.000934, 34.759487],
+				"stop_name": "Bat Yam - Komemiyyut"
+			},
+			"exp_departure": "2014-10-19T07:50:00+00:00",
+			"exp_arrival": "2014-10-19T07:50:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d5\u05e1\u05e4\u05d8\u05dc",
+				"gtfs_stop_id": 4680,
+				"latlon": [32.014591, 34.762116],
+				"stop_name": "Bat Yam - Yoseftal"
+			},
+			"exp_departure": "2014-10-19T07:53:00+00:00",
+			"exp_arrival": "2014-10-19T07:53:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d5\u05d5\u05dc\u05e4\u05e1\u05d5\u05df",
+				"gtfs_stop_id": 4660,
+				"latlon": [32.035412, 34.759706],
+				"stop_name": "Holon - Wolfson"
+			},
+			"exp_departure": "2014-10-19T07:57:00+00:00",
+			"exp_arrival": "2014-10-19T07:57:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e6\u05d5\u05de\u05ea \u05d7\u05d5\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 4640,
+				"latlon": [32.037112, 34.776478],
+				"stop_name": "Holon Junction"
+			},
+			"exp_departure": "2014-10-19T08:00:00+00:00",
+			"exp_arrival": "2014-10-19T08:00:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:04:00+00:00",
+			"exp_arrival": "2014-10-19T08:04:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:08:00+00:00",
+			"exp_arrival": "2014-10-19T08:08:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:14:00+00:00",
+			"exp_arrival": "2014-10-19T08:12:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:17:00+00:00",
+			"exp_arrival": "2014-10-19T08:17:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7",
+				"gtfs_stop_id": 4100,
+				"latlon": [32.103098, 34.830143],
+				"stop_name": "Bne Brak"
+			},
+			"exp_departure": "2014-10-19T08:22:00+00:00",
+			"exp_arrival": "2014-10-19T08:22:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 4170,
+				"latlon": [32.1062, 34.863172],
+				"stop_name": "Petah Tikva   Kiryat Arye"
+			},
+			"exp_departure": "2014-10-19T08:27:00+00:00",
+			"exp_arrival": "2014-10-19T08:27:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e1\u05d2\u05d5\u05dc\u05d4",
+				"gtfs_stop_id": 4250,
+				"latlon": [32.112064, 34.901297],
+				"stop_name": "Petah Tikva Sgulla"
+			},
+			"exp_departure": "2014-10-19T08:32:00+00:00",
+			"exp_arrival": "2014-10-19T08:32:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 8800,
+				"latlon": [32.120813, 34.934787],
+				"stop_name": "Rosh Ha'Ayin North"
+			},
+			"exp_departure": "2014-10-19T08:37:00+00:00",
+			"exp_arrival": "2014-10-19T08:37:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0",
+				"gtfs_stop_id": 8700,
+				"latlon": [32.167476, 34.917376],
+				"stop_name": "Kfar Sava"
+			},
+			"exp_departure": "2014-10-19T08:43:00+00:00",
+			"exp_arrival": "2014-10-19T08:43:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+				"gtfs_stop_id": 9200,
+				"latlon": [32.17027, 34.901554],
+				"stop_name": "Hod HaSharon"
+			},
+			"exp_departure": "2014-10-19T08:47:00+00:00",
+			"exp_arrival": "2014-10-19T08:47:00+00:00",
+			"stop_sequence": 15
+		}],
+		"gtfs_trip_id": "191014_00630"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T07:29:00+00:00",
+			"exp_arrival": "2014-10-19T07:29:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T07:36:00+00:00",
+			"exp_arrival": "2014-10-19T07:36:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T07:44:00+00:00",
+			"exp_arrival": "2014-10-19T07:41:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T07:46:00+00:00",
+			"exp_arrival": "2014-10-19T07:46:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T07:51:00+00:00",
+			"exp_arrival": "2014-10-19T07:51:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:04:00+00:00",
+			"exp_arrival": "2014-10-19T08:04:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05de\u05dc\u05d4",
+				"gtfs_stop_id": 5010,
+				"latlon": [31.928837, 34.877257],
+				"stop_name": "Ramla"
+			},
+			"exp_departure": "2014-10-19T08:09:00+00:00",
+			"exp_arrival": "2014-10-19T08:09:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9",
+				"gtfs_stop_id": 6300,
+				"latlon": [31.757807, 34.989518],
+				"stop_name": "Bet Shemesh"
+			},
+			"exp_departure": "2014-10-19T08:29:00+00:00",
+			"exp_arrival": "2014-10-19T08:29:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d2\u05df \u05d4\u05d7\u05d9\u05d5\u05ea",
+				"gtfs_stop_id": 6500,
+				"latlon": [31.744952, 35.178132],
+				"stop_name": "Jerusalem Biblical Zoo"
+			},
+			"exp_departure": "2014-10-19T09:07:00+00:00",
+			"exp_arrival": "2014-10-19T09:07:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05dc\u05d7\u05d4",
+				"gtfs_stop_id": 6700,
+				"latlon": [31.747813, 35.188161],
+				"stop_name": "Jerusalem Malha"
+			},
+			"exp_departure": "2014-10-19T09:10:00+00:00",
+			"exp_arrival": "2014-10-19T09:10:00+00:00",
+			"stop_sequence": 10
+		}],
+		"gtfs_trip_id": "191014_00511"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d1\"\u05e9 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 7320,
+				"latlon": [31.243285, 34.798395],
+				"stop_name": "Be'er Sheva Center"
+			},
+			"exp_departure": "2014-10-19T07:59:00+00:00",
+			"exp_arrival": "2014-10-19T07:59:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 7300,
+				"latlon": [31.262021, 34.809283],
+				"stop_name": "Be'er Sheva North University"
+			},
+			"exp_departure": "2014-10-19T08:06:00+00:00",
+			"exp_arrival": "2014-10-19T08:06:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d4\u05d1\u05d9\u05dd",
+				"gtfs_stop_id": 8550,
+				"latlon": [31.369865, 34.798277],
+				"stop_name": "Lehavim - Rahat"
+			},
+			"exp_departure": "2014-10-19T08:16:00+00:00",
+			"exp_arrival": "2014-10-19T08:16:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea",
+				"gtfs_stop_id": 7000,
+				"latlon": [31.603481, 34.777918],
+				"stop_name": "Kiryat Gat"
+			},
+			"exp_departure": "2014-10-19T08:32:00+00:00",
+			"exp_arrival": "2014-10-19T08:32:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05de\u05dc\u05d4",
+				"gtfs_stop_id": 5010,
+				"latlon": [31.928837, 34.877257],
+				"stop_name": "Ramla"
+			},
+			"exp_departure": "2014-10-19T08:54:00+00:00",
+			"exp_arrival": "2014-10-19T08:54:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:59:00+00:00",
+			"exp_arrival": "2014-10-19T08:59:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T09:12:00+00:00",
+			"exp_arrival": "2014-10-19T09:12:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T09:16:00+00:00",
+			"exp_arrival": "2014-10-19T09:16:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T09:20:00+00:00",
+			"exp_arrival": "2014-10-19T09:20:00+00:00",
+			"stop_sequence": 9
+		}],
+		"gtfs_trip_id": "191014_00032"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T07:47:00+00:00",
+			"exp_arrival": "2014-10-19T07:47:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T07:53:00+00:00",
+			"exp_arrival": "2014-10-19T07:53:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T08:05:00+00:00",
+			"exp_arrival": "2014-10-19T08:05:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:17:00+00:00",
+			"exp_arrival": "2014-10-19T08:17:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:21:00+00:00",
+			"exp_arrival": "2014-10-19T08:21:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:29:00+00:00",
+			"exp_arrival": "2014-10-19T08:26:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:32:00+00:00",
+			"exp_arrival": "2014-10-19T08:32:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T09:00:00+00:00",
+			"exp_arrival": "2014-10-19T09:00:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05ea\u05dc\u05d9\u05ea",
+				"gtfs_stop_id": 2500,
+				"latlon": [32.692895, 34.940439],
+				"stop_name": "Atlit"
+			},
+			"exp_departure": "2014-10-19T09:15:00+00:00",
+			"exp_arrival": "2014-10-19T09:15:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T09:24:00+00:00",
+			"exp_arrival": "2014-10-19T09:24:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T09:31:00+00:00",
+			"exp_arrival": "2014-10-19T09:31:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T09:35:00+00:00",
+			"exp_arrival": "2014-10-19T09:35:00+00:00",
+			"stop_sequence": 12
+		}],
+		"gtfs_trip_id": "191014_00162"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T06:17:00+00:00",
+			"exp_arrival": "2014-10-19T06:17:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T06:23:00+00:00",
+			"exp_arrival": "2014-10-19T06:23:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T06:35:00+00:00",
+			"exp_arrival": "2014-10-19T06:35:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T06:47:00+00:00",
+			"exp_arrival": "2014-10-19T06:47:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T06:51:00+00:00",
+			"exp_arrival": "2014-10-19T06:51:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T06:59:00+00:00",
+			"exp_arrival": "2014-10-19T06:56:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T07:02:00+00:00",
+			"exp_arrival": "2014-10-19T07:02:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T07:30:00+00:00",
+			"exp_arrival": "2014-10-19T07:30:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T07:49:00+00:00",
+			"exp_arrival": "2014-10-19T07:49:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T07:56:00+00:00",
+			"exp_arrival": "2014-10-19T07:56:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T08:00:00+00:00",
+			"exp_arrival": "2014-10-19T08:00:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T08:08:00+00:00",
+			"exp_arrival": "2014-10-19T08:08:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T08:15:00+00:00",
+			"exp_arrival": "2014-10-19T08:15:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T08:24:00+00:00",
+			"exp_arrival": "2014-10-19T08:24:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05d4\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 1600,
+				"latlon": [33.005016, 35.098722],
+				"stop_name": "Nahariyya"
+			},
+			"exp_departure": "2014-10-19T08:33:00+00:00",
+			"exp_arrival": "2014-10-19T08:33:00+00:00",
+			"stop_sequence": 15
+		}],
+		"gtfs_trip_id": "191014_00108"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 5900,
+				"latlon": [31.676738, 34.604851],
+				"stop_name": "Ashkelon"
+			},
+			"exp_departure": "2014-10-19T07:10:00+00:00",
+			"exp_arrival": "2014-10-19T07:10:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05d3\u05d5\u05d3",
+				"gtfs_stop_id": 5800,
+				"latlon": [31.774014, 34.666071],
+				"stop_name": "Ashdod Ad Halom"
+			},
+			"exp_departure": "2014-10-19T07:18:00+00:00",
+			"exp_arrival": "2014-10-19T07:18:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d1\u05e0\u05d4",
+				"gtfs_stop_id": 5410,
+				"latlon": [31.861859, 34.744094],
+				"stop_name": "Yavne"
+			},
+			"exp_departure": "2014-10-19T07:30:00+00:00",
+			"exp_arrival": "2014-10-19T07:30:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea",
+				"gtfs_stop_id": 5200,
+				"latlon": [31.908648, 34.806404],
+				"stop_name": "Rehovot E. Hadar"
+			},
+			"exp_departure": "2014-10-19T07:38:00+00:00",
+			"exp_arrival": "2014-10-19T07:38:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T07:47:00+00:00",
+			"exp_arrival": "2014-10-19T07:47:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:00:00+00:00",
+			"exp_arrival": "2014-10-19T08:00:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:04:00+00:00",
+			"exp_arrival": "2014-10-19T08:04:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:11:00+00:00",
+			"exp_arrival": "2014-10-19T08:08:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:14:00+00:00",
+			"exp_arrival": "2014-10-19T08:14:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T08:21:00+00:00",
+			"exp_arrival": "2014-10-19T08:21:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05d9\u05d4\u05d5\u05e9\u05e2",
+				"gtfs_stop_id": 3400,
+				"latlon": [32.262489, 34.860115],
+				"stop_name": "Bet Yehoshua"
+			},
+			"exp_departure": "2014-10-19T08:30:00+00:00",
+			"exp_arrival": "2014-10-19T08:30:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05e0\u05d9\u05d4",
+				"gtfs_stop_id": 3300,
+				"latlon": [32.320032, 34.869243],
+				"stop_name": "Natanya"
+			},
+			"exp_departure": "2014-10-19T08:37:00+00:00",
+			"exp_arrival": "2014-10-19T08:37:00+00:00",
+			"stop_sequence": 12
+		}],
+		"gtfs_trip_id": "191014_00960"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05d0\u05e9\u05d5\u05e0\u05d9\u05dd",
+				"gtfs_stop_id": 9100,
+				"latlon": [31.948947, 34.802676],
+				"stop_name": "Rishon LeTsiyyon HaRishonim"
+			},
+			"exp_departure": "2014-10-19T08:07:00+00:00",
+			"exp_arrival": "2014-10-19T08:07:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:15:00+00:00",
+			"exp_arrival": "2014-10-19T08:15:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d2\u05e0\u05d9 \u05d0\u05d1\u05d9\u05d1",
+				"gtfs_stop_id": 5150,
+				"latlon": [31.967008, 34.878718],
+				"stop_name": "Ganey Aviv"
+			},
+			"exp_departure": "2014-10-19T08:20:00+00:00",
+			"exp_arrival": "2014-10-19T08:20:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:30:00+00:00",
+			"exp_arrival": "2014-10-19T08:30:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:34:00+00:00",
+			"exp_arrival": "2014-10-19T08:34:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:38:00+00:00",
+			"exp_arrival": "2014-10-19T08:38:00+00:00",
+			"stop_sequence": 6
+		}],
+		"gtfs_trip_id": "191014_00912"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+				"gtfs_stop_id": 9200,
+				"latlon": [32.17027, 34.901554],
+				"stop_name": "Hod HaSharon"
+			},
+			"exp_departure": "2014-10-19T08:20:00+00:00",
+			"exp_arrival": "2014-10-19T08:20:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0",
+				"gtfs_stop_id": 8700,
+				"latlon": [32.167476, 34.917376],
+				"stop_name": "Kfar Sava"
+			},
+			"exp_departure": "2014-10-19T08:23:00+00:00",
+			"exp_arrival": "2014-10-19T08:23:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 8800,
+				"latlon": [32.120813, 34.934787],
+				"stop_name": "Rosh Ha'Ayin North"
+			},
+			"exp_departure": "2014-10-19T08:29:00+00:00",
+			"exp_arrival": "2014-10-19T08:29:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e1\u05d2\u05d5\u05dc\u05d4",
+				"gtfs_stop_id": 4250,
+				"latlon": [32.112064, 34.901297],
+				"stop_name": "Petah Tikva Sgulla"
+			},
+			"exp_departure": "2014-10-19T08:34:00+00:00",
+			"exp_arrival": "2014-10-19T08:34:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 4170,
+				"latlon": [32.1062, 34.863172],
+				"stop_name": "Petah Tikva   Kiryat Arye"
+			},
+			"exp_departure": "2014-10-19T08:39:00+00:00",
+			"exp_arrival": "2014-10-19T08:39:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7",
+				"gtfs_stop_id": 4100,
+				"latlon": [32.103098, 34.830143],
+				"stop_name": "Bne Brak"
+			},
+			"exp_departure": "2014-10-19T08:44:00+00:00",
+			"exp_arrival": "2014-10-19T08:44:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:49:00+00:00",
+			"exp_arrival": "2014-10-19T08:49:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:55:00+00:00",
+			"exp_arrival": "2014-10-19T08:53:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:57:00+00:00",
+			"exp_arrival": "2014-10-19T08:57:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T09:02:00+00:00",
+			"exp_arrival": "2014-10-19T09:02:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e6\u05d5\u05de\u05ea \u05d7\u05d5\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 4640,
+				"latlon": [32.037112, 34.776478],
+				"stop_name": "Holon Junction"
+			},
+			"exp_departure": "2014-10-19T09:06:00+00:00",
+			"exp_arrival": "2014-10-19T09:06:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d5\u05d5\u05dc\u05e4\u05e1\u05d5\u05df",
+				"gtfs_stop_id": 4660,
+				"latlon": [32.035412, 34.759706],
+				"stop_name": "Holon - Wolfson"
+			},
+			"exp_departure": "2014-10-19T09:09:00+00:00",
+			"exp_arrival": "2014-10-19T09:09:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d5\u05e1\u05e4\u05d8\u05dc",
+				"gtfs_stop_id": 4680,
+				"latlon": [32.014591, 34.762116],
+				"stop_name": "Bat Yam - Yoseftal"
+			},
+			"exp_departure": "2014-10-19T09:13:00+00:00",
+			"exp_arrival": "2014-10-19T09:13:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea",
+				"gtfs_stop_id": 4690,
+				"latlon": [32.000934, 34.759487],
+				"stop_name": "Bat Yam - Komemiyyut"
+			},
+			"exp_departure": "2014-10-19T09:16:00+00:00",
+			"exp_arrival": "2014-10-19T09:16:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05e9\u05d4 \u05d3\u05d9\u05d9\u05df",
+				"gtfs_stop_id": 9800,
+				"latlon": [31.987929, 34.75745],
+				"stop_name": "Rishon LeTsiyyon - Moshe Dayan"
+			},
+			"exp_departure": "2014-10-19T09:19:00+00:00",
+			"exp_arrival": "2014-10-19T09:19:00+00:00",
+			"stop_sequence": 15
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d1\u05e0\u05d4 \u05de\u05e2\u05e8\u05d1",
+				"gtfs_stop_id": 9000,
+				"latlon": [31.891235, 34.73154],
+				"stop_name": "Yavne - West"
+			},
+			"exp_departure": "2014-10-19T09:28:00+00:00",
+			"exp_arrival": "2014-10-19T09:28:00+00:00",
+			"stop_sequence": 16
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05d3\u05d5\u05d3",
+				"gtfs_stop_id": 5800,
+				"latlon": [31.774014, 34.666071],
+				"stop_name": "Ashdod Ad Halom"
+			},
+			"exp_departure": "2014-10-19T09:42:00+00:00",
+			"exp_arrival": "2014-10-19T09:42:00+00:00",
+			"stop_sequence": 17
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 5900,
+				"latlon": [31.676738, 34.604851],
+				"stop_name": "Ashkelon"
+			},
+			"exp_departure": "2014-10-19T09:52:00+00:00",
+			"exp_arrival": "2014-10-19T09:52:00+00:00",
+			"stop_sequence": 18
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e9\u05d3\u05e8\u05d5\u05ea",
+				"gtfs_stop_id": 9600,
+				"latlon": [31.515933, 34.587523],
+				"stop_name": "Sderot"
+			},
+			"exp_departure": "2014-10-19T10:05:00+00:00",
+			"exp_arrival": "2014-10-19T10:05:00+00:00",
+			"stop_sequence": 19
+		}],
+		"gtfs_trip_id": "191014_00635"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e9\u05d3\u05e8\u05d5\u05ea",
+				"gtfs_stop_id": 9600,
+				"latlon": [31.515933, 34.587523],
+				"stop_name": "Sderot"
+			},
+			"exp_departure": "2014-10-19T07:23:00+00:00",
+			"exp_arrival": "2014-10-19T07:23:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 5900,
+				"latlon": [31.676738, 34.604851],
+				"stop_name": "Ashkelon"
+			},
+			"exp_departure": "2014-10-19T07:34:00+00:00",
+			"exp_arrival": "2014-10-19T07:34:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05d3\u05d5\u05d3",
+				"gtfs_stop_id": 5800,
+				"latlon": [31.774014, 34.666071],
+				"stop_name": "Ashdod Ad Halom"
+			},
+			"exp_departure": "2014-10-19T07:44:00+00:00",
+			"exp_arrival": "2014-10-19T07:44:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d1\u05e0\u05d4 \u05de\u05e2\u05e8\u05d1",
+				"gtfs_stop_id": 9000,
+				"latlon": [31.891235, 34.73154],
+				"stop_name": "Yavne - West"
+			},
+			"exp_departure": "2014-10-19T07:59:00+00:00",
+			"exp_arrival": "2014-10-19T07:59:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05e9\u05d4 \u05d3\u05d9\u05d9\u05df",
+				"gtfs_stop_id": 9800,
+				"latlon": [31.987929, 34.75745],
+				"stop_name": "Rishon LeTsiyyon - Moshe Dayan"
+			},
+			"exp_departure": "2014-10-19T08:07:00+00:00",
+			"exp_arrival": "2014-10-19T08:07:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea",
+				"gtfs_stop_id": 4690,
+				"latlon": [32.000934, 34.759487],
+				"stop_name": "Bat Yam - Komemiyyut"
+			},
+			"exp_departure": "2014-10-19T08:10:00+00:00",
+			"exp_arrival": "2014-10-19T08:10:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d5\u05e1\u05e4\u05d8\u05dc",
+				"gtfs_stop_id": 4680,
+				"latlon": [32.014591, 34.762116],
+				"stop_name": "Bat Yam - Yoseftal"
+			},
+			"exp_departure": "2014-10-19T08:13:00+00:00",
+			"exp_arrival": "2014-10-19T08:13:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d5\u05d5\u05dc\u05e4\u05e1\u05d5\u05df",
+				"gtfs_stop_id": 4660,
+				"latlon": [32.035412, 34.759706],
+				"stop_name": "Holon - Wolfson"
+			},
+			"exp_departure": "2014-10-19T08:17:00+00:00",
+			"exp_arrival": "2014-10-19T08:17:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e6\u05d5\u05de\u05ea \u05d7\u05d5\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 4640,
+				"latlon": [32.037112, 34.776478],
+				"stop_name": "Holon Junction"
+			},
+			"exp_departure": "2014-10-19T08:20:00+00:00",
+			"exp_arrival": "2014-10-19T08:20:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:24:00+00:00",
+			"exp_arrival": "2014-10-19T08:24:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:28:00+00:00",
+			"exp_arrival": "2014-10-19T08:28:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:34:00+00:00",
+			"exp_arrival": "2014-10-19T08:32:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:37:00+00:00",
+			"exp_arrival": "2014-10-19T08:37:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7",
+				"gtfs_stop_id": 4100,
+				"latlon": [32.103098, 34.830143],
+				"stop_name": "Bne Brak"
+			},
+			"exp_departure": "2014-10-19T08:42:00+00:00",
+			"exp_arrival": "2014-10-19T08:42:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 4170,
+				"latlon": [32.1062, 34.863172],
+				"stop_name": "Petah Tikva   Kiryat Arye"
+			},
+			"exp_departure": "2014-10-19T08:47:00+00:00",
+			"exp_arrival": "2014-10-19T08:47:00+00:00",
+			"stop_sequence": 15
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e1\u05d2\u05d5\u05dc\u05d4",
+				"gtfs_stop_id": 4250,
+				"latlon": [32.112064, 34.901297],
+				"stop_name": "Petah Tikva Sgulla"
+			},
+			"exp_departure": "2014-10-19T08:52:00+00:00",
+			"exp_arrival": "2014-10-19T08:52:00+00:00",
+			"stop_sequence": 16
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 8800,
+				"latlon": [32.120813, 34.934787],
+				"stop_name": "Rosh Ha'Ayin North"
+			},
+			"exp_departure": "2014-10-19T08:57:00+00:00",
+			"exp_arrival": "2014-10-19T08:57:00+00:00",
+			"stop_sequence": 17
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0",
+				"gtfs_stop_id": 8700,
+				"latlon": [32.167476, 34.917376],
+				"stop_name": "Kfar Sava"
+			},
+			"exp_departure": "2014-10-19T09:03:00+00:00",
+			"exp_arrival": "2014-10-19T09:03:00+00:00",
+			"stop_sequence": 18
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+				"gtfs_stop_id": 9200,
+				"latlon": [32.17027, 34.901554],
+				"stop_name": "Hod HaSharon"
+			},
+			"exp_departure": "2014-10-19T09:07:00+00:00",
+			"exp_arrival": "2014-10-19T09:07:00+00:00",
+			"stop_sequence": 19
+		}],
+		"gtfs_trip_id": "191014_00632"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+				"gtfs_stop_id": 9200,
+				"latlon": [32.17027, 34.901554],
+				"stop_name": "Hod HaSharon"
+			},
+			"exp_departure": "2014-10-19T07:20:00+00:00",
+			"exp_arrival": "2014-10-19T07:20:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0",
+				"gtfs_stop_id": 8700,
+				"latlon": [32.167476, 34.917376],
+				"stop_name": "Kfar Sava"
+			},
+			"exp_departure": "2014-10-19T07:23:00+00:00",
+			"exp_arrival": "2014-10-19T07:23:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 8800,
+				"latlon": [32.120813, 34.934787],
+				"stop_name": "Rosh Ha'Ayin North"
+			},
+			"exp_departure": "2014-10-19T07:29:00+00:00",
+			"exp_arrival": "2014-10-19T07:29:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e1\u05d2\u05d5\u05dc\u05d4",
+				"gtfs_stop_id": 4250,
+				"latlon": [32.112064, 34.901297],
+				"stop_name": "Petah Tikva Sgulla"
+			},
+			"exp_departure": "2014-10-19T07:34:00+00:00",
+			"exp_arrival": "2014-10-19T07:34:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 4170,
+				"latlon": [32.1062, 34.863172],
+				"stop_name": "Petah Tikva   Kiryat Arye"
+			},
+			"exp_departure": "2014-10-19T07:39:00+00:00",
+			"exp_arrival": "2014-10-19T07:39:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7",
+				"gtfs_stop_id": 4100,
+				"latlon": [32.103098, 34.830143],
+				"stop_name": "Bne Brak"
+			},
+			"exp_departure": "2014-10-19T07:44:00+00:00",
+			"exp_arrival": "2014-10-19T07:44:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T07:49:00+00:00",
+			"exp_arrival": "2014-10-19T07:49:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T07:55:00+00:00",
+			"exp_arrival": "2014-10-19T07:53:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T07:57:00+00:00",
+			"exp_arrival": "2014-10-19T07:57:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:02:00+00:00",
+			"exp_arrival": "2014-10-19T08:02:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e6\u05d5\u05de\u05ea \u05d7\u05d5\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 4640,
+				"latlon": [32.037112, 34.776478],
+				"stop_name": "Holon Junction"
+			},
+			"exp_departure": "2014-10-19T08:06:00+00:00",
+			"exp_arrival": "2014-10-19T08:06:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d5\u05d5\u05dc\u05e4\u05e1\u05d5\u05df",
+				"gtfs_stop_id": 4660,
+				"latlon": [32.035412, 34.759706],
+				"stop_name": "Holon - Wolfson"
+			},
+			"exp_departure": "2014-10-19T08:09:00+00:00",
+			"exp_arrival": "2014-10-19T08:09:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d5\u05e1\u05e4\u05d8\u05dc",
+				"gtfs_stop_id": 4680,
+				"latlon": [32.014591, 34.762116],
+				"stop_name": "Bat Yam - Yoseftal"
+			},
+			"exp_departure": "2014-10-19T08:13:00+00:00",
+			"exp_arrival": "2014-10-19T08:13:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea",
+				"gtfs_stop_id": 4690,
+				"latlon": [32.000934, 34.759487],
+				"stop_name": "Bat Yam - Komemiyyut"
+			},
+			"exp_departure": "2014-10-19T08:16:00+00:00",
+			"exp_arrival": "2014-10-19T08:16:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05e9\u05d4 \u05d3\u05d9\u05d9\u05df",
+				"gtfs_stop_id": 9800,
+				"latlon": [31.987929, 34.75745],
+				"stop_name": "Rishon LeTsiyyon - Moshe Dayan"
+			},
+			"exp_departure": "2014-10-19T08:19:00+00:00",
+			"exp_arrival": "2014-10-19T08:19:00+00:00",
+			"stop_sequence": 15
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d1\u05e0\u05d4 \u05de\u05e2\u05e8\u05d1",
+				"gtfs_stop_id": 9000,
+				"latlon": [31.891235, 34.73154],
+				"stop_name": "Yavne - West"
+			},
+			"exp_departure": "2014-10-19T08:28:00+00:00",
+			"exp_arrival": "2014-10-19T08:28:00+00:00",
+			"stop_sequence": 16
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05d3\u05d5\u05d3",
+				"gtfs_stop_id": 5800,
+				"latlon": [31.774014, 34.666071],
+				"stop_name": "Ashdod Ad Halom"
+			},
+			"exp_departure": "2014-10-19T08:42:00+00:00",
+			"exp_arrival": "2014-10-19T08:42:00+00:00",
+			"stop_sequence": 17
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 5900,
+				"latlon": [31.676738, 34.604851],
+				"stop_name": "Ashkelon"
+			},
+			"exp_departure": "2014-10-19T08:52:00+00:00",
+			"exp_arrival": "2014-10-19T08:52:00+00:00",
+			"stop_sequence": 18
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e9\u05d3\u05e8\u05d5\u05ea",
+				"gtfs_stop_id": 9600,
+				"latlon": [31.515933, 34.587523],
+				"stop_name": "Sderot"
+			},
+			"exp_departure": "2014-10-19T09:05:00+00:00",
+			"exp_arrival": "2014-10-19T09:05:00+00:00",
+			"stop_sequence": 19
+		}],
+		"gtfs_trip_id": "191014_00629"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T07:53:00+00:00",
+			"exp_arrival": "2014-10-19T07:53:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T08:01:00+00:00",
+			"exp_arrival": "2014-10-19T08:01:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd",
+				"gtfs_stop_id": 700,
+				"latlon": [32.824873, 35.064296],
+				"stop_name": "Kiryat Hayyim"
+			},
+			"exp_departure": "2014-10-19T08:04:00+00:00",
+			"exp_arrival": "2014-10-19T08:04:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e6\u05d5\u05ea \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1300,
+				"latlon": [32.809439, 35.054525],
+				"stop_name": "Hutsot HaMifrats"
+			},
+			"exp_departure": "2014-10-19T08:07:00+00:00",
+			"exp_arrival": "2014-10-19T08:07:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T08:11:00+00:00",
+			"exp_arrival": "2014-10-19T08:11:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T08:18:00+00:00",
+			"exp_arrival": "2014-10-19T08:18:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T08:22:00+00:00",
+			"exp_arrival": "2014-10-19T08:22:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T08:29:00+00:00",
+			"exp_arrival": "2014-10-19T08:29:00+00:00",
+			"stop_sequence": 8
+		}],
+		"gtfs_trip_id": "191014_00437"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T08:07:00+00:00",
+			"exp_arrival": "2014-10-19T08:07:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 2820,
+				"latlon": [32.485366, 34.95406],
+				"stop_name": "Kesariyya - Pardes Hanna"
+			},
+			"exp_departure": "2014-10-19T08:11:00+00:00",
+			"exp_arrival": "2014-10-19T08:11:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d3\u05e8\u05d4 \u05de\u05e2\u05e8\u05d1",
+				"gtfs_stop_id": 3100,
+				"latlon": [32.438221, 34.899365],
+				"stop_name": "Hadera West"
+			},
+			"exp_departure": "2014-10-19T08:18:00+00:00",
+			"exp_arrival": "2014-10-19T08:18:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05e0\u05d9\u05d4",
+				"gtfs_stop_id": 3300,
+				"latlon": [32.320032, 34.869243],
+				"stop_name": "Natanya"
+			},
+			"exp_departure": "2014-10-19T08:27:00+00:00",
+			"exp_arrival": "2014-10-19T08:27:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05d9\u05d4\u05d5\u05e9\u05e2",
+				"gtfs_stop_id": 3400,
+				"latlon": [32.262489, 34.860115],
+				"stop_name": "Bet Yehoshua"
+			},
+			"exp_departure": "2014-10-19T08:33:00+00:00",
+			"exp_arrival": "2014-10-19T08:33:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T08:42:00+00:00",
+			"exp_arrival": "2014-10-19T08:42:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:49:00+00:00",
+			"exp_arrival": "2014-10-19T08:49:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:56:00+00:00",
+			"exp_arrival": "2014-10-19T08:53:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:58:00+00:00",
+			"exp_arrival": "2014-10-19T08:58:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T09:03:00+00:00",
+			"exp_arrival": "2014-10-19T09:03:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05d7\u05d1\u05d3",
+				"gtfs_stop_id": 4800,
+				"latlon": [31.993192, 34.853015],
+				"stop_name": "Kfar Habbad"
+			},
+			"exp_departure": "2014-10-19T09:11:00+00:00",
+			"exp_arrival": "2014-10-19T09:11:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T09:18:00+00:00",
+			"exp_arrival": "2014-10-19T09:18:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d0\u05e8 \u05d9\u05e2\u05e7\u05d1",
+				"gtfs_stop_id": 5300,
+				"latlon": [31.932913, 34.828616],
+				"stop_name": "Be'er Ya'akov"
+			},
+			"exp_departure": "2014-10-19T09:25:00+00:00",
+			"exp_arrival": "2014-10-19T09:25:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea",
+				"gtfs_stop_id": 5200,
+				"latlon": [31.908648, 34.806404],
+				"stop_name": "Rehovot E. Hadar"
+			},
+			"exp_departure": "2014-10-19T09:30:00+00:00",
+			"exp_arrival": "2014-10-19T09:30:00+00:00",
+			"stop_sequence": 14
+		}],
+		"gtfs_trip_id": "191014_00243"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T06:39:00+00:00",
+			"exp_arrival": "2014-10-19T06:39:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T06:44:00+00:00",
+			"exp_arrival": "2014-10-19T06:44:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T06:52:00+00:00",
+			"exp_arrival": "2014-10-19T06:52:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T06:57:00+00:00",
+			"exp_arrival": "2014-10-19T06:57:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T07:03:00+00:00",
+			"exp_arrival": "2014-10-19T07:03:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05ea\u05dc\u05d9\u05ea",
+				"gtfs_stop_id": 2500,
+				"latlon": [32.692895, 34.940439],
+				"stop_name": "Atlit"
+			},
+			"exp_departure": "2014-10-19T07:13:00+00:00",
+			"exp_arrival": "2014-10-19T07:13:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T07:26:00+00:00",
+			"exp_arrival": "2014-10-19T07:26:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T07:54:00+00:00",
+			"exp_arrival": "2014-10-19T07:54:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:01:00+00:00",
+			"exp_arrival": "2014-10-19T07:58:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:04:00+00:00",
+			"exp_arrival": "2014-10-19T08:04:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:09:00+00:00",
+			"exp_arrival": "2014-10-19T08:09:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T08:19:00+00:00",
+			"exp_arrival": "2014-10-19T08:19:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T08:35:00+00:00",
+			"exp_arrival": "2014-10-19T08:35:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T08:43:00+00:00",
+			"exp_arrival": "2014-10-19T08:43:00+00:00",
+			"stop_sequence": 14
+		}],
+		"gtfs_trip_id": "191014_00159"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df",
+				"gtfs_stop_id": 5900,
+				"latlon": [31.676738, 34.604851],
+				"stop_name": "Ashkelon"
+			},
+			"exp_departure": "2014-10-19T08:10:00+00:00",
+			"exp_arrival": "2014-10-19T08:10:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05e9\u05d3\u05d5\u05d3",
+				"gtfs_stop_id": 5800,
+				"latlon": [31.774014, 34.666071],
+				"stop_name": "Ashdod Ad Halom"
+			},
+			"exp_departure": "2014-10-19T08:18:00+00:00",
+			"exp_arrival": "2014-10-19T08:18:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d9\u05d1\u05e0\u05d4",
+				"gtfs_stop_id": 5410,
+				"latlon": [31.861859, 34.744094],
+				"stop_name": "Yavne"
+			},
+			"exp_departure": "2014-10-19T08:30:00+00:00",
+			"exp_arrival": "2014-10-19T08:30:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea",
+				"gtfs_stop_id": 5200,
+				"latlon": [31.908648, 34.806404],
+				"stop_name": "Rehovot E. Hadar"
+			},
+			"exp_departure": "2014-10-19T08:38:00+00:00",
+			"exp_arrival": "2014-10-19T08:38:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:47:00+00:00",
+			"exp_arrival": "2014-10-19T08:47:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T09:00:00+00:00",
+			"exp_arrival": "2014-10-19T09:00:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T09:04:00+00:00",
+			"exp_arrival": "2014-10-19T09:04:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T09:11:00+00:00",
+			"exp_arrival": "2014-10-19T09:08:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T09:14:00+00:00",
+			"exp_arrival": "2014-10-19T09:14:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T09:21:00+00:00",
+			"exp_arrival": "2014-10-19T09:21:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05d9\u05d4\u05d5\u05e9\u05e2",
+				"gtfs_stop_id": 3400,
+				"latlon": [32.262489, 34.860115],
+				"stop_name": "Bet Yehoshua"
+			},
+			"exp_departure": "2014-10-19T09:30:00+00:00",
+			"exp_arrival": "2014-10-19T09:30:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05e0\u05d9\u05d4",
+				"gtfs_stop_id": 3300,
+				"latlon": [32.320032, 34.869243],
+				"stop_name": "Natanya"
+			},
+			"exp_departure": "2014-10-19T09:37:00+00:00",
+			"exp_arrival": "2014-10-19T09:37:00+00:00",
+			"stop_sequence": 12
+		}],
+		"gtfs_trip_id": "191014_00962"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e0\u05d4\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 1600,
+				"latlon": [33.005016, 35.098722],
+				"stop_name": "Nahariyya"
+			},
+			"exp_departure": "2014-10-19T08:12:00+00:00",
+			"exp_arrival": "2014-10-19T08:12:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T08:19:00+00:00",
+			"exp_arrival": "2014-10-19T08:19:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T08:28:00+00:00",
+			"exp_arrival": "2014-10-19T08:28:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd",
+				"gtfs_stop_id": 700,
+				"latlon": [32.824873, 35.064296],
+				"stop_name": "Kiryat Hayyim"
+			},
+			"exp_departure": "2014-10-19T08:31:00+00:00",
+			"exp_arrival": "2014-10-19T08:31:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e6\u05d5\u05ea \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1300,
+				"latlon": [32.809439, 35.054525],
+				"stop_name": "Hutsot HaMifrats"
+			},
+			"exp_departure": "2014-10-19T08:34:00+00:00",
+			"exp_arrival": "2014-10-19T08:34:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T08:38:00+00:00",
+			"exp_arrival": "2014-10-19T08:38:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T08:45:00+00:00",
+			"exp_arrival": "2014-10-19T08:45:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T08:49:00+00:00",
+			"exp_arrival": "2014-10-19T08:49:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T08:56:00+00:00",
+			"exp_arrival": "2014-10-19T08:56:00+00:00",
+			"stop_sequence": 9
+		}],
+		"gtfs_trip_id": "191014_00439"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T07:58:00+00:00",
+			"exp_arrival": "2014-10-19T07:58:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T08:04:00+00:00",
+			"exp_arrival": "2014-10-19T08:04:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T08:08:00+00:00",
+			"exp_arrival": "2014-10-19T08:08:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T08:15:00+00:00",
+			"exp_arrival": "2014-10-19T08:15:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e6\u05d5\u05ea \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1300,
+				"latlon": [32.809439, 35.054525],
+				"stop_name": "Hutsot HaMifrats"
+			},
+			"exp_departure": "2014-10-19T08:19:00+00:00",
+			"exp_arrival": "2014-10-19T08:19:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd",
+				"gtfs_stop_id": 700,
+				"latlon": [32.824873, 35.064296],
+				"stop_name": "Kiryat Hayyim"
+			},
+			"exp_departure": "2014-10-19T08:22:00+00:00",
+			"exp_arrival": "2014-10-19T08:22:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T08:25:00+00:00",
+			"exp_arrival": "2014-10-19T08:25:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T08:34:00+00:00",
+			"exp_arrival": "2014-10-19T08:34:00+00:00",
+			"stop_sequence": 8
+		}],
+		"gtfs_trip_id": "191014_00434"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea",
+				"gtfs_stop_id": 5200,
+				"latlon": [31.908648, 34.806404],
+				"stop_name": "Rehovot E. Hadar"
+			},
+			"exp_departure": "2014-10-19T07:55:00+00:00",
+			"exp_arrival": "2014-10-19T07:55:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d0\u05e8 \u05d9\u05e2\u05e7\u05d1",
+				"gtfs_stop_id": 5300,
+				"latlon": [31.932913, 34.828616],
+				"stop_name": "Be'er Ya'akov"
+			},
+			"exp_departure": "2014-10-19T08:01:00+00:00",
+			"exp_arrival": "2014-10-19T08:01:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d5\u05d3",
+				"gtfs_stop_id": 5000,
+				"latlon": [31.945267, 34.875158],
+				"stop_name": "Lod"
+			},
+			"exp_departure": "2014-10-19T08:07:00+00:00",
+			"exp_arrival": "2014-10-19T08:07:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05db\u05e4\u05e8 \u05d7\u05d1\u05d3",
+				"gtfs_stop_id": 4800,
+				"latlon": [31.993192, 34.853015],
+				"stop_name": "Kfar Habbad"
+			},
+			"exp_departure": "2014-10-19T08:15:00+00:00",
+			"exp_arrival": "2014-10-19T08:15:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T08:23:00+00:00",
+			"exp_arrival": "2014-10-19T08:23:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T08:27:00+00:00",
+			"exp_arrival": "2014-10-19T08:27:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T08:34:00+00:00",
+			"exp_arrival": "2014-10-19T08:31:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:37:00+00:00",
+			"exp_arrival": "2014-10-19T08:37:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+				"gtfs_stop_id": 3500,
+				"latlon": [32.163804, 34.818448],
+				"stop_name": "Herzliyya"
+			},
+			"exp_departure": "2014-10-19T08:44:00+00:00",
+			"exp_arrival": "2014-10-19T08:44:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05d9\u05ea \u05d9\u05d4\u05d5\u05e9\u05e2",
+				"gtfs_stop_id": 3400,
+				"latlon": [32.262489, 34.860115],
+				"stop_name": "Bet Yehoshua"
+			},
+			"exp_departure": "2014-10-19T08:53:00+00:00",
+			"exp_arrival": "2014-10-19T08:53:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05e0\u05d9\u05d4",
+				"gtfs_stop_id": 3300,
+				"latlon": [32.320032, 34.869243],
+				"stop_name": "Natanya"
+			},
+			"exp_departure": "2014-10-19T08:59:00+00:00",
+			"exp_arrival": "2014-10-19T08:59:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d3\u05e8\u05d4 \u05de\u05e2\u05e8\u05d1",
+				"gtfs_stop_id": 3100,
+				"latlon": [32.438221, 34.899365],
+				"stop_name": "Hadera West"
+			},
+			"exp_departure": "2014-10-19T09:08:00+00:00",
+			"exp_arrival": "2014-10-19T09:08:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 2820,
+				"latlon": [32.485366, 34.95406],
+				"stop_name": "Kesariyya - Pardes Hanna"
+			},
+			"exp_departure": "2014-10-19T09:15:00+00:00",
+			"exp_arrival": "2014-10-19T09:15:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T09:20:00+00:00",
+			"exp_arrival": "2014-10-19T09:20:00+00:00",
+			"stop_sequence": 14
+		}],
+		"gtfs_trip_id": "191014_00244"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T07:54:00+00:00",
+			"exp_arrival": "2014-10-19T07:54:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T07:57:00+00:00",
+			"exp_arrival": "2014-10-19T07:57:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T08:03:00+00:00",
+			"exp_arrival": "2014-10-19T08:03:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05ea\u05dc\u05d9\u05ea",
+				"gtfs_stop_id": 2500,
+				"latlon": [32.692895, 34.940439],
+				"stop_name": "Atlit"
+			},
+			"exp_departure": "2014-10-19T08:13:00+00:00",
+			"exp_arrival": "2014-10-19T08:13:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T08:26:00+00:00",
+			"exp_arrival": "2014-10-19T08:26:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:54:00+00:00",
+			"exp_arrival": "2014-10-19T08:54:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T09:01:00+00:00",
+			"exp_arrival": "2014-10-19T08:58:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T09:04:00+00:00",
+			"exp_arrival": "2014-10-19T09:04:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T09:09:00+00:00",
+			"exp_arrival": "2014-10-19T09:09:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T09:19:00+00:00",
+			"exp_arrival": "2014-10-19T09:19:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T09:35:00+00:00",
+			"exp_arrival": "2014-10-19T09:35:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T09:43:00+00:00",
+			"exp_arrival": "2014-10-19T09:43:00+00:00",
+			"stop_sequence": 12
+		}],
+		"gtfs_trip_id": "191014_00161"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T06:47:00+00:00",
+			"exp_arrival": "2014-10-19T06:47:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T06:53:00+00:00",
+			"exp_arrival": "2014-10-19T06:53:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T07:05:00+00:00",
+			"exp_arrival": "2014-10-19T07:05:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T07:17:00+00:00",
+			"exp_arrival": "2014-10-19T07:17:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T07:21:00+00:00",
+			"exp_arrival": "2014-10-19T07:21:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T07:29:00+00:00",
+			"exp_arrival": "2014-10-19T07:26:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T07:32:00+00:00",
+			"exp_arrival": "2014-10-19T07:32:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T08:00:00+00:00",
+			"exp_arrival": "2014-10-19T08:00:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05ea\u05dc\u05d9\u05ea",
+				"gtfs_stop_id": 2500,
+				"latlon": [32.692895, 34.940439],
+				"stop_name": "Atlit"
+			},
+			"exp_departure": "2014-10-19T08:15:00+00:00",
+			"exp_arrival": "2014-10-19T08:15:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T08:24:00+00:00",
+			"exp_arrival": "2014-10-19T08:24:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T08:31:00+00:00",
+			"exp_arrival": "2014-10-19T08:31:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T08:35:00+00:00",
+			"exp_arrival": "2014-10-19T08:35:00+00:00",
+			"stop_sequence": 12
+		}],
+		"gtfs_trip_id": "191014_00160"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e0\u05d4\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 1600,
+				"latlon": [33.005016, 35.098722],
+				"stop_name": "Nahariyya"
+			},
+			"exp_departure": "2014-10-19T07:54:00+00:00",
+			"exp_arrival": "2014-10-19T07:54:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T08:01:00+00:00",
+			"exp_arrival": "2014-10-19T08:01:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T08:11:00+00:00",
+			"exp_arrival": "2014-10-19T08:11:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T08:17:00+00:00",
+			"exp_arrival": "2014-10-19T08:17:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T08:25:00+00:00",
+			"exp_arrival": "2014-10-19T08:25:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T08:30:00+00:00",
+			"exp_arrival": "2014-10-19T08:30:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T08:36:00+00:00",
+			"exp_arrival": "2014-10-19T08:36:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T08:56:00+00:00",
+			"exp_arrival": "2014-10-19T08:56:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T09:24:00+00:00",
+			"exp_arrival": "2014-10-19T09:24:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T09:31:00+00:00",
+			"exp_arrival": "2014-10-19T09:28:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T09:34:00+00:00",
+			"exp_arrival": "2014-10-19T09:34:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T09:39:00+00:00",
+			"exp_arrival": "2014-10-19T09:39:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T09:49:00+00:00",
+			"exp_arrival": "2014-10-19T09:49:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T10:05:00+00:00",
+			"exp_arrival": "2014-10-19T10:05:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T10:13:00+00:00",
+			"exp_arrival": "2014-10-19T10:13:00+00:00",
+			"stop_sequence": 15
+		}],
+		"gtfs_trip_id": "191014_00113"
+	}, {
+		"is_live": null,
+		"stop_times": [{
+			"stop": {
+				"stop_short_name": "\u05e4\u05d0\u05ea\u05d9 \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 400,
+				"latlon": [31.901192, 35.005744],
+				"stop_name": "Modiin Center"
+			},
+			"exp_departure": "2014-10-19T07:17:00+00:00",
+			"exp_arrival": "2014-10-19T07:17:00+00:00",
+			"stop_sequence": 1
+		}, {
+			"stop": {
+				"stop_short_name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df",
+				"gtfs_stop_id": 300,
+				"latlon": [31.893661, 34.96079],
+				"stop_name": "Modiin"
+			},
+			"exp_departure": "2014-10-19T07:23:00+00:00",
+			"exp_arrival": "2014-10-19T07:23:00+00:00",
+			"stop_sequence": 2
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05ea\u05d1\"\u05d2",
+				"gtfs_stop_id": 8600,
+				"latlon": [32.000733, 34.870728],
+				"stop_name": "Ben Gurion Airport"
+			},
+			"exp_departure": "2014-10-19T07:35:00+00:00",
+			"exp_arrival": "2014-10-19T07:35:00+00:00",
+			"stop_sequence": 3
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d4\u05d4\u05d2\u05e0\u05d4",
+				"gtfs_stop_id": 4900,
+				"latlon": [32.054145, 34.784816],
+				"stop_name": "Tel Aviv HaHagana"
+			},
+			"exp_departure": "2014-10-19T07:47:00+00:00",
+			"exp_arrival": "2014-10-19T07:47:00+00:00",
+			"stop_sequence": 4
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05d4\u05e9\u05dc\u05d5\u05dd",
+				"gtfs_stop_id": 4600,
+				"latlon": [32.073515, 34.793211],
+				"stop_name": "Tel Aviv HaShalom"
+			},
+			"exp_departure": "2014-10-19T07:51:00+00:00",
+			"exp_arrival": "2014-10-19T07:51:00+00:00",
+			"stop_sequence": 5
+		}, {
+			"stop": {
+				"stop_short_name": "\u05ea\"\u05d0 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 3700,
+				"latlon": [32.083882, 34.798322],
+				"stop_name": "Tel Aviv Center - Savidor"
+			},
+			"exp_departure": "2014-10-19T07:59:00+00:00",
+			"exp_arrival": "2014-10-19T07:56:00+00:00",
+			"stop_sequence": 6
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4",
+				"gtfs_stop_id": 3600,
+				"latlon": [32.103661, 34.804613],
+				"stop_name": "Tel Aviv - University"
+			},
+			"exp_departure": "2014-10-19T08:02:00+00:00",
+			"exp_arrival": "2014-10-19T08:02:00+00:00",
+			"stop_sequence": 7
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4",
+				"gtfs_stop_id": 2800,
+				"latlon": [32.514484, 34.949991],
+				"stop_name": "Binyamina"
+			},
+			"exp_departure": "2014-10-19T08:30:00+00:00",
+			"exp_arrival": "2014-10-19T08:30:00+00:00",
+			"stop_sequence": 8
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc",
+				"gtfs_stop_id": 2300,
+				"latlon": [32.793539, 34.957531],
+				"stop_name": "Haifa Hof HaKarmel (Razi'el)"
+			},
+			"exp_departure": "2014-10-19T08:49:00+00:00",
+			"exp_arrival": "2014-10-19T08:49:00+00:00",
+			"stop_sequence": 9
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd",
+				"gtfs_stop_id": 2200,
+				"latlon": [32.83061, 34.98187],
+				"stop_name": "Haifa Bat Gallim"
+			},
+			"exp_departure": "2014-10-19T08:56:00+00:00",
+			"exp_arrival": "2014-10-19T08:56:00+00:00",
+			"stop_sequence": 10
+		}, {
+			"stop": {
+				"stop_short_name": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05db\u05d6",
+				"gtfs_stop_id": 2100,
+				"latlon": [32.822229, 34.997102],
+				"stop_name": "Haifa Center HaShmona"
+			},
+			"exp_departure": "2014-10-19T09:00:00+00:00",
+			"exp_arrival": "2014-10-19T09:00:00+00:00",
+			"stop_sequence": 11
+		}, {
+			"stop": {
+				"stop_short_name": "\u05dc\u05d1 \u05d4\u05de\u05e4\u05e8\u05e5",
+				"gtfs_stop_id": 1220,
+				"latlon": [32.793891, 35.037152],
+				"stop_name": "Leb Hmifratz"
+			},
+			"exp_departure": "2014-10-19T09:08:00+00:00",
+			"exp_arrival": "2014-10-19T09:08:00+00:00",
+			"stop_sequence": 12
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df",
+				"gtfs_stop_id": 800,
+				"latlon": [32.833081, 35.069947],
+				"stop_name": "Kiryat Motzkin"
+			},
+			"exp_departure": "2014-10-19T09:15:00+00:00",
+			"exp_arrival": "2014-10-19T09:15:00+00:00",
+			"stop_sequence": 13
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e2\u05db\u05d5",
+				"gtfs_stop_id": 1500,
+				"latlon": [32.928293, 35.082959],
+				"stop_name": "Akko"
+			},
+			"exp_departure": "2014-10-19T09:24:00+00:00",
+			"exp_arrival": "2014-10-19T09:24:00+00:00",
+			"stop_sequence": 14
+		}, {
+			"stop": {
+				"stop_short_name": "\u05e0\u05d4\u05e8\u05d9\u05d4",
+				"gtfs_stop_id": 1600,
+				"latlon": [33.005016, 35.098722],
+				"stop_name": "Nahariyya"
+			},
+			"exp_departure": "2014-10-19T09:33:00+00:00",
+			"exp_arrival": "2014-10-19T09:33:00+00:00",
+			"stop_sequence": 15
+		}],
+		"gtfs_trip_id": "191014_00110"
+	}]
+}
