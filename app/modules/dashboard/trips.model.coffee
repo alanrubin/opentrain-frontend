@@ -1,8 +1,9 @@
 'use strict';
 
-angular.module('otDashboard').factory 'Trip', ->
+angular.module('otDashboard').factory 'Trip', ($http) ->
 
 	{
 		all: ->
-			'test123!'
+			$http.get('data/trips.current.json').then (results) ->
+				results.data.objects
 	}
