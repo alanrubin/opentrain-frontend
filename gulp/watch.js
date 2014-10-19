@@ -12,5 +12,5 @@ gulp.task('watch', ['wiredep', 'styles', 'fonts-dev', 'test'], function() {
 	gulp.watch('app/modules/**/*.coffee', ['coffee']);
 	gulp.watch('app/images/**/*', ['images']);
 	gulp.watch('bower.json', ['wiredep']);
-	gulp.watch('app/modules/**/*.test.js', ['test']);
+	gulp.watch('app/modules/**/*.test.{js,coffee}', ['test']);
 });

@@ -23,4 +23,4 @@ angular.module('otDashboard').controller 'DashboardController', ($scope, $stateP
 	$scope.selectGroup = (groupItem) ->
 		$state.go 'dashboard', { groupBy: groupItem }
 
-	console.log Trip.all()
+	# console.log Trip.all()
