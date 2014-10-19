@@ -13,6 +13,7 @@ module.exports = function(config) {
 			'test/unit/**/*.js'
 		],
 
+		// Use 'gulp watch' for auto watch
 		autoWatch: false,
 
 		frameworks: ['jasmine'],

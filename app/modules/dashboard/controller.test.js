@@ -1,7 +1,7 @@
 /* global it, describe, beforeEach, inject, expect */
 'use strict';
 
-describe('controllers', function() {
+describe('otDashboard:DashboardController', function() {
 	var scope;
 
 	beforeEach(module('openTrain'));
@@ -13,7 +13,7 @@ describe('controllers', function() {
 
 	it('should define 4 lines', inject(function($controller) {
 		expect(scope.lines).toBeUndefined();
-
+		
 		$controller('DashboardController', {
 			$scope: scope
 		});
