@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('otDashboard').controller 'DashboardController', ($scope, $stateParams, $state) ->
+angular.module('otDashboard').controller 'DashboardController', ($scope, $stateParams, $state, Trip) ->
 
 	$scope.lines = [
 		{ status: 'success' }
@@ -22,3 +22,5 @@ angular.module('otDashboard').controller 'DashboardController', ($scope, $stateP
     # Select specific group
 	$scope.selectGroup = (groupItem) ->
 		$state.go 'dashboard', { groupBy: groupItem }
+
+	console.log Trip.all()
