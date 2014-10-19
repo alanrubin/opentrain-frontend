@@ -10,7 +10,7 @@ describe 'otDashboard:TripsModel', ->
 	beforeEach inject ($injector) ->
 		trip = $injector.get('Trip')
 		$httpBackend = $injector.get('$httpBackend')
-		$httpBackend.when('GET', 'data/trips.current.json').respond {
+		$httpBackend.expectGET('data/trips.current.json').respond {
 			objects: [1, 2]
 		}
 
@@ -19,8 +19,6 @@ describe 'otDashboard:TripsModel', ->
 			# expect(true).toBeFalsy()
 			trip.all().then (data) ->
 				expect(data.length).toEqual(2)
-
-			$httpBackend.expectGET('data/trips.current.json');
 
 			$httpBackend.flush();
 
